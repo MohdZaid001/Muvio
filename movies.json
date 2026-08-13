@@ -1,0 +1,6227 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "industry": "Hollywood",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Joseph Gordon-Levitt",
+        "Elliot Page"
+      ],
+      "producers": [
+        "Emma Thomas",
+        "Christopher Nolan"
+      ],
+      "releaseYear": 2010,
+      "genre": [
+        "Sci-Fi",
+        "Action",
+        "Thriller"
+      ],
+      "rating": 8.8,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 148
+    },
+    {
+      "id": 2,
+      "title": "3 Idiots",
+      "industry": "Bollywood",
+      "directors": [
+        "Rajkumar Hirani"
+      ],
+      "actors": [
+        "Aamir Khan",
+        "R. Madhavan",
+        "Sharman Joshi",
+        "Kareena Kapoor"
+      ],
+      "producers": [
+        "Vidhu Vinod Chopra"
+      ],
+      "releaseYear": 2009,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "language": [
+        "Hindi"
+      ],
+      "length": 170
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "industry": "Hollywood",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart"
+      ],
+      "producers": [
+        "Emma Thomas",
+        "Charles Roven",
+        "Christopher Nolan"
+      ],
+      "releaseYear": 2008,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.0,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 152
+    },
+    {
+      "id": 4,
+      "title": "Zindagi Na Milegi Dobara",
+      "industry": "Bollywood",
+      "directors": [
+        "Zoya Akhtar"
+      ],
+      "actors": [
+        "Hrithik Roshan",
+        "Farhan Akhtar",
+        "Abhay Deol",
+        "Katrina Kaif"
+      ],
+      "producers": [
+        "Farhan Akhtar",
+        "Ritesh Sidhwani"
+      ],
+      "releaseYear": 2011,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 155
+    },
+    {
+      "id": 5,
+      "title": "Interstellar",
+      "industry": "Hollywood",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Matthew McConaughey",
+        "Anne Hathaway",
+        "Jessica Chastain"
+      ],
+      "producers": [
+        "Emma Thomas",
+        "Christopher Nolan",
+        "Lynda Obst"
+      ],
+      "releaseYear": 2014,
+      "genre": [
+        "Sci-Fi",
+        "Drama",
+        "Adventure"
+      ],
+      "rating": 8.6,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 169
+    },
+    {
+      "id": 6,
+      "title": "Dangal",
+      "industry": "Bollywood",
+      "directors": [
+        "Nitesh Tiwari"
+      ],
+      "actors": [
+        "Aamir Khan",
+        "Fatima Sana Shaikh",
+        "Sanya Malhotra"
+      ],
+      "producers": [
+        "Aamir Khan",
+        "Kiran Rao",
+        "Siddharth Roy Kapur"
+      ],
+      "releaseYear": 2016,
+      "genre": [
+        "Biography",
+        "Drama",
+        "Action"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 161
+    },
+    {
+      "id": 7,
+      "title": "Avengers: Endgame",
+      "industry": "Hollywood",
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "actors": [
+        "Robert Downey Jr.",
+        "Chris Evans",
+        "Mark Ruffalo",
+        "Chris Hemsworth"
+      ],
+      "producers": [
+        "Kevin Feige"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Action",
+        "Sci-Fi",
+        "Adventure"
+      ],
+      "rating": 8.4,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 181
+    },
+    {
+      "id": 8,
+      "title": "Hera Pheri",
+      "industry": "Bollywood",
+      "directors": [
+        "Priyadarshan"
+      ],
+      "actors": [
+        "Akshay Kumar",
+        "Sunil Shetty",
+        "Paresh Rawal"
+      ],
+      "producers": [
+        "A.G. Nadiadwala"
+      ],
+      "releaseYear": 2000,
+      "genre": [
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 156
+    },
+    {
+      "id": 9,
+      "title": "The Matrix",
+      "industry": "Hollywood",
+      "directors": [
+        "Lana Wachowski",
+        "Lilly Wachowski"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Laurence Fishburne",
+        "Carrie-Anne Moss"
+      ],
+      "producers": [
+        "Joel Silver"
+      ],
+      "releaseYear": 1999,
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 136
+    },
+    {
+      "id": 10,
+      "title": "Pathaan",
+      "industry": "Bollywood",
+      "directors": [
+        "Siddharth Anand"
+      ],
+      "actors": [
+        "Shah Rukh Khan",
+        "Deepika Padukone",
+        "John Abraham"
+      ],
+      "producers": [
+        "Aditya Chopra"
+      ],
+      "releaseYear": 2023,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 5.9,
+      "language": [
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 146
+    },
+    {
+      "id": 11,
+      "title": "John Wick",
+      "industry": "Hollywood",
+      "directors": [
+        "Chad Stahelski"
+      ],
+      "actors": [
+        "Keanu Reeves",
+        "Michael Nyqvist",
+        "Alfie Allen"
+      ],
+      "producers": [
+        "Basil Iwanyk",
+        "David Leitch",
+        "Eva Longoria"
+      ],
+      "releaseYear": 2014,
+      "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 7.4,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 101
+    },
+    {
+      "id": 12,
+      "title": "Sholay",
+      "industry": "Bollywood",
+      "directors": [
+        "Ramesh Sippy"
+      ],
+      "actors": [
+        "Dharmendra",
+        "Amitabh Bachchan",
+        "Sanjeev Kumar",
+        "Amjad Khan"
+      ],
+      "producers": [
+        "G.P. Sippy"
+      ],
+      "releaseYear": 1975,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 204
+    },
+    {
+      "id": 13,
+      "title": "Spider-Man: Into the Spider-Verse",
+      "industry": "Hollywood",
+      "directors": [
+        "Bob Persichetti",
+        "Peter Ramsey",
+        "Rodney Rothman"
+      ],
+      "actors": [
+        "Shameik Moore",
+        "Jake Johnson",
+        "Hailee Steinfeld"
+      ],
+      "producers": [
+        "Avi Arad",
+        "Amy Pascal",
+        "Phil Lord",
+        "Christopher Miller"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 8.4,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 117
+    },
+    {
+      "id": 14,
+      "title": "Andhadhun",
+      "industry": "Bollywood",
+      "directors": [
+        "Sriram Raghavan"
+      ],
+      "actors": [
+        "Ayushmann Khurrana",
+        "Tabu",
+        "Radhika Apte"
+      ],
+      "producers": [
+        "Sanjay Routray"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Crime",
+        "Thriller",
+        "Comedy"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 139
+    },
+    {
+      "id": 15,
+      "title": "Jurassic Park",
+      "industry": "Hollywood",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Sam Neill",
+        "Laura Dern",
+        "Jeff Goldblum"
+      ],
+      "producers": [
+        "Kathleen Kennedy",
+        "Gerald R. Molen"
+      ],
+      "releaseYear": 1993,
+      "genre": [
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 127
+    },
+    {
+      "id": 16,
+      "title": "PK",
+      "industry": "Bollywood",
+      "directors": [
+        "Rajkumar Hirani"
+      ],
+      "actors": [
+        "Aamir Khan",
+        "Anushka Sharma",
+        "Sushant Singh Rajput"
+      ],
+      "producers": [
+        "Vidhu Vinod Chopra",
+        "Rajkumar Hirani"
+      ],
+      "releaseYear": 2014,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 153
+    },
+    {
+      "id": 17,
+      "title": "The Shawshank Redemption",
+      "industry": "Hollywood",
+      "directors": [
+        "Frank Darabont"
+      ],
+      "actors": [
+        "Tim Robbins",
+        "Morgan Freeman",
+        "Bob Gunton"
+      ],
+      "producers": [
+        "Niki Marvin"
+      ],
+      "releaseYear": 1994,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 9.3,
+      "language": [
+        "English"
+      ],
+      "length": 142
+    },
+    {
+      "id": 18,
+      "title": "Yeh Jawaani Hai Deewani",
+      "industry": "Bollywood",
+      "directors": [
+        "Ayan Mukerji"
+      ],
+      "actors": [
+        "Ranbir Kapoor",
+        "Deepika Padukone",
+        "Aditya Roy Kapoor",
+        "Kalki Koechlin"
+      ],
+      "producers": [
+        "Karan Johar"
+      ],
+      "releaseYear": 2013,
+      "genre": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "rating": 7.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 160
+    },
+    {
+      "id": 19,
+      "title": "Mad Max: Fury Road",
+      "industry": "Hollywood",
+      "directors": [
+        "George Miller"
+      ],
+      "actors": [
+        "Tom Hardy",
+        "Charlize Theron",
+        "Nicholas Hoult"
+      ],
+      "producers": [
+        "Doug Mitchell",
+        "George Miller",
+        "P.J. Voeten"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 120
+    },
+    {
+      "id": 20,
+      "title": "Drishyam",
+      "industry": "Bollywood",
+      "directors": [
+        "Nishikant Kamat"
+      ],
+      "actors": [
+        "Ajay Devgn",
+        "Shriya Saran",
+        "Tabu"
+      ],
+      "producers": [
+        "Kumar Mangat Pathak",
+        "Ajit Andhare",
+        "Abhishek Pathak"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 163
+    },
+    {
+      "id": 21,
+      "title": "Gladiator",
+      "industry": "Hollywood",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Russell Crowe",
+        "Joaquin Phoenix",
+        "Connie Nielsen"
+      ],
+      "producers": [
+        "Douglas Wick",
+        "David Franzoni",
+        "Branko Lustig"
+      ],
+      "releaseYear": 2000,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 155
+    },
+    {
+      "id": 22,
+      "title": "Lagaan: Once Upon a Time in India",
+      "industry": "Bollywood",
+      "directors": [
+        "Ashutosh Gowariker"
+      ],
+      "actors": [
+        "Aamir Khan",
+        "Gracy Singh",
+        "Rachel Shelley"
+      ],
+      "producers": [
+        "Aamir Khan"
+      ],
+      "releaseYear": 2001,
+      "genre": [
+        "Drama",
+        "Musical",
+        "Sports"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 224
+    },
+    {
+      "id": 23,
+      "title": "The Godfather",
+      "industry": "Hollywood",
+      "directors": [
+        "Francis Ford Coppola"
+      ],
+      "actors": [
+        "Marlon Brando",
+        "Al Pacino",
+        "James Caan"
+      ],
+      "producers": [
+        "Albert S. Ruddy"
+      ],
+      "releaseYear": 1972,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 9.2,
+      "language": [
+        "English"
+      ],
+      "length": 175
+    },
+    {
+      "id": 24,
+      "title": "Gangs of Wasseypur",
+      "industry": "Bollywood",
+      "directors": [
+        "Anurag Kashyap"
+      ],
+      "actors": [
+        "Manoj Bajpayee",
+        "Nawazuddin Siddiqui",
+        "Richa Chadha",
+        "Tigmanshu Dhulia"
+      ],
+      "producers": [
+        "Anurag Kashyap",
+        "Sunil Bohra"
+      ],
+      "releaseYear": 2012,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 321
+    },
+    {
+      "id": 25,
+      "title": "Fight Club",
+      "industry": "Hollywood",
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Brad Pitt",
+        "Edward Norton",
+        "Meat Loaf"
+      ],
+      "producers": [
+        "Art Linson",
+        "Ceán Chaffin",
+        "Ross Grayson Bell"
+      ],
+      "releaseYear": 1999,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.8,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 139
+    },
+    {
+      "id": 26,
+      "title": "Munna Bhai M.B.B.S.",
+      "industry": "Bollywood",
+      "directors": [
+        "Rajkumar Hirani"
+      ],
+      "actors": [
+        "Sanjay Dutt",
+        "Arshad Warsi",
+        "Gracy Singh",
+        "Boman Irani"
+      ],
+      "producers": [
+        "Vidhu Vinod Chopra"
+      ],
+      "releaseYear": 2003,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 156
+    },
+    {
+      "id": 27,
+      "title": "Avatar",
+      "industry": "Hollywood",
+      "directors": [
+        "James Cameron"
+      ],
+      "actors": [
+        "Sam Worthington",
+        "Zoe Saldana",
+        "Sigourney Weaver"
+      ],
+      "producers": [
+        "James Cameron",
+        "Jon Landau"
+      ],
+      "releaseYear": 2009,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "rating": 7.9,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 162
+    },
+    {
+      "id": 28,
+      "title": "Swades",
+      "industry": "Bollywood",
+      "directors": [
+        "Ashutosh Gowariker"
+      ],
+      "actors": [
+        "Shah Rukh Khan",
+        "Gayatri Joshi",
+        "Kishori Ballal"
+      ],
+      "producers": [
+        "Ashutosh Gowariker",
+        "Ronnie Screwvala"
+      ],
+      "releaseYear": 2004,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 189
+    },
+    {
+      "id": 29,
+      "title": "Forrest Gump",
+      "industry": "Hollywood",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "actors": [
+        "Tom Hanks",
+        "Robin Wright",
+        "Gary Sinise"
+      ],
+      "producers": [
+        "Wendy Finerman",
+        "Steve Tisch",
+        "Steve Starkey"
+      ],
+      "releaseYear": 1994,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.8,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 142
+    },
+    {
+      "id": 30,
+      "title": "Bajrangi Bhaijaan",
+      "industry": "Bollywood",
+      "directors": [
+        "Kabir Khan"
+      ],
+      "actors": [
+        "Salman Khan",
+        "Harshaali Malhotra",
+        "Nawazuddin Siddiqui",
+        "Kareena Kapoor"
+      ],
+      "producers": [
+        "Salman Khan",
+        "Rockline Venkatesh"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 163
+    },
+    {
+      "id": 31,
+      "title": "The Wolf of Wall Street",
+      "industry": "Hollywood",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Jonah Hill",
+        "Margot Robbie"
+      ],
+      "producers": [
+        "Martin Scorsese",
+        "Leonardo DiCaprio",
+        "Riza Aziz",
+        "Joey McFarland",
+        "Emma Tillinger Koskoff"
+      ],
+      "releaseYear": 2013,
+      "genre": [
+        "Biography",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.2,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 180
+    },
+    {
+      "id": 32,
+      "title": "Chak De! India",
+      "industry": "Bollywood",
+      "directors": [
+        "Shimit Amin"
+      ],
+      "actors": [
+        "Shah Rukh Khan",
+        "Vidya Malvade",
+        "Sagarika Ghatge"
+      ],
+      "producers": [
+        "Aditya Chopra"
+      ],
+      "releaseYear": 2007,
+      "genre": [
+        "Drama",
+        "Sports"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 153
+    },
+    {
+      "id": 33,
+      "title": "Pulp Fiction",
+      "industry": "Hollywood",
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "actors": [
+        "John Travolta",
+        "Uma Thurman",
+        "Samuel L. Jackson"
+      ],
+      "producers": [
+        "Lawrence Bender"
+      ],
+      "releaseYear": 1994,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.9,
+      "language": [
+        "English"
+      ],
+      "length": 154
+    },
+    {
+      "id": 34,
+      "title": "Taare Zameen Par",
+      "industry": "Bollywood",
+      "directors": [
+        "Aamir Khan",
+        "Amole Gupte"
+      ],
+      "actors": [
+        "Darsheel Safary",
+        "Aamir Khan",
+        "Tisca Chopra"
+      ],
+      "producers": [
+        "Aamir Khan"
+      ],
+      "releaseYear": 2007,
+      "genre": [
+        "Drama",
+        "Family"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Hindi"
+      ],
+      "length": 165
+    },
+    {
+      "id": 35,
+      "title": "The Lord of the Rings: The Return of the King",
+      "industry": "Hollywood",
+      "directors": [
+        "Peter Jackson"
+      ],
+      "actors": [
+        "Elijah Wood",
+        "Viggo Mortensen",
+        "Ian McKellen"
+      ],
+      "producers": [
+        "Barrie M. Osborne",
+        "Peter Jackson",
+        "Fran Walsh"
+      ],
+      "releaseYear": 2003,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 9.0,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 201
+    },
+    {
+      "id": 36,
+      "title": "Jawan",
+      "industry": "Bollywood",
+      "directors": [
+        "Atlee"
+      ],
+      "actors": [
+        "Shah Rukh Khan",
+        "Nayanthara",
+        "Vijay Sethupathi"
+      ],
+      "producers": [
+        "Gauri Khan",
+        "Gaurav Verma"
+      ],
+      "releaseYear": 2023,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 7.0,
+      "language": [
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 169
+    },
+    {
+      "id": 37,
+      "title": "Terminator 2: Judgment Day",
+      "industry": "Hollywood",
+      "directors": [
+        "James Cameron"
+      ],
+      "actors": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Edward Furlong"
+      ],
+      "producers": [
+        "James Cameron"
+      ],
+      "releaseYear": 1991,
+      "genre": [
+        "Action",
+        "Sci-Fi"
+      ],
+      "rating": 8.6,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 137
+    },
+    {
+      "id": 38,
+      "title": "Dil Chahta Hai",
+      "industry": "Bollywood",
+      "directors": [
+        "Farhan Akhtar"
+      ],
+      "actors": [
+        "Aamir Khan",
+        "Saif Ali Khan",
+        "Akshaye Khanna",
+        "Preity Zinta"
+      ],
+      "producers": [
+        "Ritesh Sidhwani"
+      ],
+      "releaseYear": 2001,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 183
+    },
+    {
+      "id": 39,
+      "title": "The Lion King",
+      "industry": "Hollywood",
+      "directors": [
+        "Roger Allers",
+        "Rob Minkoff"
+      ],
+      "actors": [
+        "Matthew Broderick",
+        "Jeremy Irons",
+        "James Earl Jones"
+      ],
+      "producers": [
+        "Don Hahn"
+      ],
+      "releaseYear": 1994,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 88
+    },
+    {
+      "id": 40,
+      "title": "Kabir Singh",
+      "industry": "Bollywood",
+      "directors": [
+        "Sandeep Reddy Vanga"
+      ],
+      "actors": [
+        "Shahid Kapoor",
+        "Kiara Advani",
+        "Soham Majumdar"
+      ],
+      "producers": [
+        "Bhushan Kumar",
+        "Murad Khetani",
+        "Krishan Kumar",
+        "Ashwin Varde"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 172
+    },
+    {
+      "id": 41,
+      "title": "Shutter Island",
+      "industry": "Hollywood",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Emily Mortimer",
+        "Mark Ruffalo"
+      ],
+      "producers": [
+        "Martin Scorsese",
+        "Bradley J. Fischer",
+        "Mike Medavoy",
+        "Arnold W. Messer"
+      ],
+      "releaseYear": 2010,
+      "genre": [
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 138
+    },
+    {
+      "id": 42,
+      "title": "Tumbbad",
+      "industry": "Bollywood",
+      "directors": [
+        "Rahi Anil Barve",
+        "Anand Gandhi"
+      ],
+      "actors": [
+        "Sohum Shah",
+        "Jyoti Malshe",
+        "Anita Date-Kelkar"
+      ],
+      "producers": [
+        "Sohum Shah",
+        "Aanand L. Rai",
+        "Mukesh Shah",
+        "Amita Shah"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi",
+        "Marathi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 104
+    },
+    {
+      "id": 43,
+      "title": "The Prestige",
+      "industry": "Hollywood",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Christian Bale",
+        "Hugh Jackman",
+        "Scarlett Johansson"
+      ],
+      "producers": [
+        "Emma Thomas",
+        "Aaron Ryder",
+        "Christopher Nolan"
+      ],
+      "releaseYear": 2006,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.5,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 130
+    },
+    {
+      "id": 44,
+      "title": "Kahaani",
+      "industry": "Bollywood",
+      "directors": [
+        "Sujoy Ghosh"
+      ],
+      "actors": [
+        "Vidya Balan",
+        "Parambrata Chattopadhyay",
+        "Nawazuddin Siddiqui"
+      ],
+      "producers": [
+        "Sujoy Ghosh",
+        "Kushal Kantilal Gada"
+      ],
+      "releaseYear": 2012,
+      "genre": [
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 122
+    },
+    {
+      "id": 45,
+      "title": "Se7en",
+      "industry": "Hollywood",
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Morgan Freeman",
+        "Brad Pitt",
+        "Kevin Spacey"
+      ],
+      "producers": [
+        "Arnold Kopelson",
+        "Phyllis Carlyle"
+      ],
+      "releaseYear": 1995,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.6,
+      "language": [
+        "English"
+      ],
+      "length": 127
+    },
+    {
+      "id": 46,
+      "title": "Bhaag Milkha Bhaag",
+      "industry": "Bollywood",
+      "directors": [
+        "Rakeysh Omprakash Mehra"
+      ],
+      "actors": [
+        "Farhan Akhtar",
+        "Sonam Kapoor",
+        "Pawan Malhotra"
+      ],
+      "producers": [
+        "Rajiv Tandon",
+        "Raghav Bahl",
+        "Maitreyee Dasgupta"
+      ],
+      "releaseYear": 2013,
+      "genre": [
+        "Biography",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 188
+    },
+    {
+      "id": 47,
+      "title": "Joker",
+      "industry": "Hollywood",
+      "directors": [
+        "Todd Phillips"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Robert De Niro",
+        "Zazie Beetz"
+      ],
+      "producers": [
+        "Todd Phillips",
+        "Bradley Cooper",
+        "Emma Tillinger Koskoff"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.4,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 122
+    },
+    {
+      "id": 48,
+      "title": "Rang De Basanti",
+      "industry": "Bollywood",
+      "directors": [
+        "Rakeysh Omprakash Mehra"
+      ],
+      "actors": [
+        "Aamir Khan",
+        "Soha Ali Khan",
+        "Siddharth",
+        "Sharman Joshi"
+      ],
+      "producers": [
+        "Rakeysh Omprakash Mehra",
+        "Ronnie Screwvala"
+      ],
+      "releaseYear": 2006,
+      "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 167
+    },
+    {
+      "id": 49,
+      "title": "The Departed",
+      "industry": "Hollywood",
+      "directors": [
+        "Martin Scorsese"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Jack Nicholson"
+      ],
+      "producers": [
+        "Brad Pitt",
+        "Brad Grey",
+        "Graham King"
+      ],
+      "releaseYear": 2006,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.5,
+      "language": [
+        "English"
+      ],
+      "length": 151
+    },
+    {
+      "id": 50,
+      "title": "Queen",
+      "industry": "Bollywood",
+      "directors": [
+        "Vikas Bahl"
+      ],
+      "actors": [
+        "Kangana Ranaut",
+        "Rajkummar Rao",
+        "Lisa Haydon"
+      ],
+      "producers": [
+        "Anurag Kashyap",
+        "Vikramaditya Motwane"
+      ],
+      "releaseYear": 2013,
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 146
+    },
+    {
+      "id": 51,
+      "title": "Oppenheimer",
+      "industry": "Hollywood",
+      "directors": [
+        "Christopher Nolan"
+      ],
+      "actors": [
+        "Cillian Murphy",
+        "Emily Blunt",
+        "Matt Damon"
+      ],
+      "producers": [
+        "Emma Thomas",
+        "Charles Roven",
+        "Christopher Nolan"
+      ],
+      "releaseYear": 2023,
+      "genre": [
+        "Biography",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.3,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 180
+    },
+    {
+      "id": 52,
+      "title": "Uri: The Surgical Strike",
+      "industry": "Bollywood",
+      "directors": [
+        "Aditya Dhar"
+      ],
+      "actors": [
+        "Vicky Kaushal",
+        "Paresh Rawal",
+        "Yami Gautam"
+      ],
+      "producers": [
+        "Ronnie Screwvala"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 138
+    },
+    {
+      "id": 53,
+      "title": "The Social Network",
+      "industry": "Hollywood",
+      "directors": [
+        "David Fincher"
+      ],
+      "actors": [
+        "Jesse Eisenberg",
+        "Andrew Garfield",
+        "Justin Timberlake"
+      ],
+      "producers": [
+        "Scott Rudin",
+        "Dana Brunetti",
+        "Michael De Luca",
+        "Ceán Chaffin"
+      ],
+      "releaseYear": 2010,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 120
+    },
+    {
+      "id": 54,
+      "title": "Barfi!",
+      "industry": "Bollywood",
+      "directors": [
+        "Anurag Basu"
+      ],
+      "actors": [
+        "Ranbir Kapoor",
+        "Priyanka Chopra",
+        "Ileana D'Cruz"
+      ],
+      "producers": [
+        "Ronnie Screwvala",
+        "Siddharth Roy Kapur"
+      ],
+      "releaseYear": 2012,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 151
+    },
+    {
+      "id": 55,
+      "title": "Whiplash",
+      "industry": "Hollywood",
+      "directors": [
+        "Damien Chazelle"
+      ],
+      "actors": [
+        "Miles Teller",
+        "J.K. Simmons",
+        "Melissa Benoist"
+      ],
+      "producers": [
+        "Jason Blum",
+        "Helen Estabrook",
+        "David Lancaster",
+        "Michel Litvak"
+      ],
+      "releaseYear": 2014,
+      "genre": [
+        "Drama",
+        "Music"
+      ],
+      "rating": 8.5,
+      "language": [
+        "English"
+      ],
+      "length": 106
+    },
+    {
+      "id": 56,
+      "title": "K.G.F: Chapter 1",
+      "industry": "South Indian",
+      "directors": [
+        "Prashanth Neel"
+      ],
+      "actors": [
+        "Yash",
+        "Srinidhi Shetty",
+        "Ramachandra Raju"
+      ],
+      "producers": [
+        "Vijay Kiragandur"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Kannada",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "length": 156
+    },
+    {
+      "id": 57,
+      "title": "Catch Me If You Can",
+      "industry": "Hollywood",
+      "directors": [
+        "Steven Spielberg"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Christopher Walken"
+      ],
+      "producers": [
+        "Steven Spielberg",
+        "Walter F. Parkes"
+      ],
+      "releaseYear": 2002,
+      "genre": [
+        "Biography",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 141
+    },
+    {
+      "id": 58,
+      "title": "Drishyam 2",
+      "industry": "Bollywood",
+      "directors": [
+        "Abhishek Pathak"
+      ],
+      "actors": [
+        "Ajay Devgn",
+        "Shriya Saran",
+        "Tabu",
+        "Akshaye Khanna"
+      ],
+      "producers": [
+        "Bhushan Kumar",
+        "Krishan Kumar",
+        "Kumar Mangat Pathak",
+        "Abhishek Pathak"
+      ],
+      "releaseYear": 2022,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 140
+    },
+    {
+      "id": 59,
+      "title": "Mission: Impossible - Fallout",
+      "industry": "Hollywood",
+      "directors": [
+        "Christopher McQuarrie"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Henry Cavill",
+        "Ving Rhames"
+      ],
+      "producers": [
+        "Tom Cruise",
+        "Christopher McQuarrie",
+        "Jake Myers",
+        "J.J. Abrams"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "rating": 7.7,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 147
+    },
+    {
+      "id": 60,
+      "title": "Chhichhore",
+      "industry": "Bollywood",
+      "directors": [
+        "Nitesh Tiwari"
+      ],
+      "actors": [
+        "Sushant Singh Rajput",
+        "Shraddha Kapoor",
+        "Varun Sharma"
+      ],
+      "producers": [
+        "Sajid Nadiadwala"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Hindi"
+      ],
+      "length": 143
+    },
+    {
+      "id": 61,
+      "title": "Iron Man",
+      "industry": "Hollywood",
+      "directors": [
+        "Jon Favreau"
+      ],
+      "actors": [
+        "Robert Downey Jr.",
+        "Gwyneth Paltrow",
+        "Terrence Howard"
+      ],
+      "producers": [
+        "Avi Arad",
+        "Kevin Feige"
+      ],
+      "releaseYear": 2008,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.9,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 126
+    },
+    {
+      "id": 62,
+      "title": "Super 30",
+      "industry": "Bollywood",
+      "directors": [
+        "Vikas Bahl"
+      ],
+      "actors": [
+        "Hrithik Roshan",
+        "Mrunal Thakur",
+        "Nandish Singh Sandhu"
+      ],
+      "producers": [
+        "Sajid Nadiadwala",
+        "Phantom Films",
+        "Reliance Entertainment"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.9,
+      "language": [
+        "Hindi"
+      ],
+      "length": 154
+    },
+    {
+      "id": 63,
+      "title": "Django Unchained",
+      "industry": "Hollywood",
+      "directors": [
+        "Quentin Tarantino"
+      ],
+      "actors": [
+        "Jamie Foxx",
+        "Christoph Waltz",
+        "Leonardo DiCaprio"
+      ],
+      "producers": [
+        "Stacey Sher",
+        "Reginald Hudlin",
+        "Pilar Savone"
+      ],
+      "releaseYear": 2012,
+      "genre": [
+        "Drama",
+        "Western"
+      ],
+      "rating": 8.5,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 165
+    },
+    {
+      "id": 64,
+      "title": "Special 26",
+      "industry": "Bollywood",
+      "directors": [
+        "Neeraj Pandey"
+      ],
+      "actors": [
+        "Akshay Kumar",
+        "Anupam Kher",
+        "Manoj Bajpayee"
+      ],
+      "producers": [
+        "Shital Bhatia",
+        "Kumar Mangat Pathak"
+      ],
+      "releaseYear": 2013,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.0,
+      "language": [
+        "Hindi"
+      ],
+      "length": 144
+    },
+    {
+      "id": 65,
+      "title": "Titanic",
+      "industry": "Hollywood",
+      "directors": [
+        "James Cameron"
+      ],
+      "actors": [
+        "Leonardo DiCaprio",
+        "Kate Winslet",
+        "Billy Zane"
+      ],
+      "producers": [
+        "James Cameron",
+        "Jon Landau"
+      ],
+      "releaseYear": 1997,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.9,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 194
+    },
+    {
+      "id": 66,
+      "title": "Bajirao Mastani",
+      "industry": "Bollywood",
+      "directors": [
+        "Sanjay Leela Bhansali"
+      ],
+      "actors": [
+        "Ranveer Singh",
+        "Deepika Padukone",
+        "Priyanka Chopra"
+      ],
+      "producers": [
+        "Sanjay Leela Bhansali",
+        "Kishore Lulla"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Action",
+        "Drama",
+        "History"
+      ],
+      "rating": 7.2,
+      "language": [
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 158
+    },
+    {
+      "id": 67,
+      "title": "Back to the Future",
+      "industry": "Hollywood",
+      "directors": [
+        "Robert Zemeckis"
+      ],
+      "actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ],
+      "producers": [
+        "Bob Gale",
+        "Neil Canton"
+      ],
+      "releaseYear": 1985,
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": 8.5,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 116
+    },
+    {
+      "id": 68,
+      "title": "My Name Is Khan",
+      "industry": "Bollywood",
+      "directors": [
+        "Karan Johar"
+      ],
+      "actors": [
+        "Shah Rukh Khan",
+        "Kajol",
+        "Sheetal Menon"
+      ],
+      "producers": [
+        "Hiroo Johar",
+        "Gauri Khan"
+      ],
+      "releaseYear": 2010,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 7.9,
+      "language": [
+        "Hindi"
+      ],
+      "length": 161
+    },
+    {
+      "id": 69,
+      "title": "Logan",
+      "industry": "Hollywood",
+      "directors": [
+        "James Mangold"
+      ],
+      "actors": [
+        "Hugh Jackman",
+        "Patrick Stewart",
+        "Dafne Keen"
+      ],
+      "producers": [
+        "Hutch Parker",
+        "Simon Kinberg",
+        "Lauren Shuler Donner"
+      ],
+      "releaseYear": 2017,
+      "genre": [
+        "Action",
+        "Drama",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 137
+    },
+    {
+      "id": 70,
+      "title": "Article 15",
+      "industry": "Bollywood",
+      "directors": [
+        "Anubhav Sinha"
+      ],
+      "actors": [
+        "Ayushmann Khurrana",
+        "Nassar",
+        "Manoj Pahwa"
+      ],
+      "producers": [
+        "Anubhav Sinha",
+        "Zee Studios"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 130
+    },
+    {
+      "id": 71,
+      "title": "The Batman",
+      "industry": "Hollywood",
+      "directors": [
+        "Matt Reeves"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Jeffrey Wright"
+      ],
+      "producers": [
+        "Dylan Clark",
+        "Matt Reeves"
+      ],
+      "releaseYear": 2022,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 176
+    },
+    {
+      "id": 72,
+      "title": "Ludo",
+      "industry": "Bollywood",
+      "directors": [
+        "Anurag Basu"
+      ],
+      "actors": [
+        "Abhishek Bachchan",
+        "Aditya Roy Kapoor",
+        "Pankaj Tripathi"
+      ],
+      "producers": [
+        "Bhushan Kumar",
+        "Divya Khosla Kumar",
+        "Anurag Basu"
+      ],
+      "releaseYear": 2020,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 7.6,
+      "language": [
+        "Hindi"
+      ],
+      "length": 149
+    },
+    {
+      "id": 73,
+      "title": "Top Gun: Maverick",
+      "industry": "Hollywood",
+      "directors": [
+        "Joseph Kosinski"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Jennifer Connelly",
+        "Miles Teller"
+      ],
+      "producers": [
+        "Jerry Bruckheimer",
+        "Tom Cruise",
+        "Christopher McQuarrie",
+        "David Ellison"
+      ],
+      "releaseYear": 2022,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 130
+    },
+    {
+      "id": 74,
+      "title": "A Wednesday",
+      "industry": "Bollywood",
+      "directors": [
+        "Neeraj Pandey"
+      ],
+      "actors": [
+        "Anupam Kher",
+        "Naseeruddin Shah",
+        "Jimmy Shergill"
+      ],
+      "producers": [
+        "Ronnie Screwvala",
+        "Anjum Rizvi",
+        "Shital Bhatia"
+      ],
+      "releaseYear": 2008,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 104
+    },
+    {
+      "id": 75,
+      "title": "Seven Samurai",
+      "industry": "Hollywood",
+      "directors": [
+        "Akira Kurosawa"
+      ],
+      "actors": [
+        "Toshirô Mifune",
+        "Takashi Shimura",
+        "Keiko Tsushima"
+      ],
+      "producers": [
+        "Sôjirô Motoki"
+      ],
+      "releaseYear": 1954,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.6,
+      "language": [
+        "Japanese",
+        "English"
+      ],
+      "length": 207
+    },
+    {
+      "id": 76,
+      "title": "Gully Boy",
+      "industry": "Bollywood",
+      "directors": [
+        "Zoya Akhtar"
+      ],
+      "actors": [
+        "Ranveer Singh",
+        "Alia Bhatt",
+        "Siddhant Chaturvedi"
+      ],
+      "producers": [
+        "Ritesh Sidhwani",
+        "Zoya Akhtar",
+        "Farhan Akhtar"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Drama",
+        "Music"
+      ],
+      "rating": 7.9,
+      "language": [
+        "Hindi"
+      ],
+      "length": 154
+    },
+    {
+      "id": 77,
+      "title": "The Truman Show",
+      "industry": "Hollywood",
+      "directors": [
+        "Peter Weir"
+      ],
+      "actors": [
+        "Jim Carrey",
+        "Ed Harris",
+        "Laura Linney"
+      ],
+      "producers": [
+        "Scott Rudin",
+        "Andrew Niccol",
+        "Edward S. Feldman",
+        "Adam Schröder"
+      ],
+      "releaseYear": 1998,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "language": [
+        "English"
+      ],
+      "length": 103
+    },
+    {
+      "id": 78,
+      "title": "Vicky Donor",
+      "industry": "Bollywood",
+      "directors": [
+        "Shoojit Sircar"
+      ],
+      "actors": [
+        "Ayushmann Khurrana",
+        "Yami Gautam",
+        "Annu Kapoor"
+      ],
+      "producers": [
+        "John Abraham"
+      ],
+      "releaseYear": 2012,
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 7.8,
+      "language": [
+        "Hindi"
+      ],
+      "length": 126
+    },
+    {
+      "id": 79,
+      "title": "Madagascar",
+      "industry": "Hollywood",
+      "directors": [
+        "Eric Darnell",
+        "Tom McGrath"
+      ],
+      "actors": [
+        "Chris Rock",
+        "Ben Stiller",
+        "David Schwimmer"
+      ],
+      "producers": [
+        "Mireille Soria"
+      ],
+      "releaseYear": 2005,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "rating": 6.9,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 86
+    },
+    {
+      "id": 80,
+      "title": "OMG: Oh My God!",
+      "industry": "Bollywood",
+      "directors": [
+        "Umesh Shukla"
+      ],
+      "actors": [
+        "Paresh Rawal",
+        "Akshay Kumar",
+        "Mithun Chakraborty"
+      ],
+      "producers": [
+        "Ashvini Yardi",
+        "Akshay Kumar",
+        "Paresh Rawal"
+      ],
+      "releaseYear": 2012,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 125
+    },
+    {
+      "id": 81,
+      "title": "The Lunchbox",
+      "industry": "Bollywood",
+      "directors": [
+        "Ritesh Batra"
+      ],
+      "actors": [
+        "Irrfan Khan",
+        "Nimrat Kaur",
+        "Nawazuddin Siddiqui"
+      ],
+      "producers": [
+        "Anurag Kashyap",
+        "Guneet Monga",
+        "Arun Rangachari"
+      ],
+      "releaseYear": 2013,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.8,
+      "language": [
+        "Hindi",
+        "English"
+      ],
+      "length": 104
+    },
+    {
+      "id": 82,
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "industry": "Hollywood",
+      "directors": [
+        "Michel Gondry"
+      ],
+      "actors": [
+        "Jim Carrey",
+        "Kate Winslet",
+        "Elijah Wood"
+      ],
+      "producers": [
+        "Steve Golin",
+        "Anthony Bregman"
+      ],
+      "releaseYear": 2004,
+      "genre": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "rating": 8.3,
+      "language": [
+        "English"
+      ],
+      "length": 108
+    },
+    {
+      "id": 83,
+      "title": "Masaan",
+      "industry": "Bollywood",
+      "directors": [
+        "Neeraj Ghaywan"
+      ],
+      "actors": [
+        "Vicky Kaushal",
+        "Richa Chadha",
+        "Shweta Tripathi"
+      ],
+      "producers": [
+        "Anurag Kashyap",
+        "Vikramaditya Motwane",
+        "Guneet Monga"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 109
+    },
+    {
+      "id": 84,
+      "title": "Donnie Darko",
+      "industry": "Hollywood",
+      "directors": [
+        "Richard Kelly"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Jena Malone",
+        "Mary McDonnell"
+      ],
+      "producers": [
+        "Sean McKittrick",
+        "Nancy Juvonen"
+      ],
+      "releaseYear": 2001,
+      "genre": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.0,
+      "language": [
+        "English"
+      ],
+      "length": 113
+    },
+    {
+      "id": 85,
+      "title": "Udaan",
+      "industry": "Bollywood",
+      "directors": [
+        "Vikramaditya Motwane"
+      ],
+      "actors": [
+        "Rajat Barmecha",
+        "Ronit Roy",
+        "Aayan Boradia"
+      ],
+      "producers": [
+        "Anurag Kashyap",
+        "Sanjay Singh",
+        "Ronnie Screwvala"
+      ],
+      "releaseYear": 2010,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 134
+    },
+    {
+      "id": 86,
+      "title": "Nightcrawler",
+      "industry": "Hollywood",
+      "directors": [
+        "Dan Gilroy"
+      ],
+      "actors": [
+        "Jake Gyllenhaal",
+        "Rene Russo",
+        "Bill Paxton"
+      ],
+      "producers": [
+        "Jennifer Fox",
+        "Tony Gilroy",
+        "Jake Gyllenhaal"
+      ],
+      "releaseYear": 2014,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 7.8,
+      "language": [
+        "English"
+      ],
+      "length": 117
+    },
+    {
+      "id": 87,
+      "title": "Khosla Ka Ghosla!",
+      "industry": "Bollywood",
+      "directors": [
+        "Dibakar Banerjee"
+      ],
+      "actors": [
+        "Anupam Kher",
+        "Boman Irani",
+        "Parvin Dabas"
+      ],
+      "producers": [
+        "Savita Raj Hiremath"
+      ],
+      "releaseYear": 2006,
+      "genre": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Hindi"
+      ],
+      "length": 135
+    },
+    {
+      "id": 88,
+      "title": "Blade Runner 2049",
+      "industry": "Hollywood",
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Harrison Ford",
+        "Ana de Armas"
+      ],
+      "producers": [
+        "Andrew A. Kosove",
+        "Broderick Johnson",
+        "Bud Yorkin"
+      ],
+      "releaseYear": 2017,
+      "genre": [
+        "Action",
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "rating": 8.0,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 164
+    },
+    {
+      "id": 89,
+      "title": "Black Friday",
+      "industry": "Bollywood",
+      "directors": [
+        "Anurag Kashyap"
+      ],
+      "actors": [
+        "Kay Kay Menon",
+        "Pawan Malhotra",
+        "Aditya Srivastava"
+      ],
+      "producers": [
+        "Arindam Mitra"
+      ],
+      "releaseYear": 2004,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "language": [
+        "Hindi"
+      ],
+      "length": 143
+    },
+    {
+      "id": 90,
+      "title": "The Big Lebowski",
+      "industry": "Hollywood",
+      "directors": [
+        "Joel Coen",
+        "Ethan Coen"
+      ],
+      "actors": [
+        "Jeff Bridges",
+        "John Goodman",
+        "Julianne Moore"
+      ],
+      "producers": [
+        "Ethan Coen",
+        "Tim Bevan",
+        "Eric Fellner"
+      ],
+      "releaseYear": 1998,
+      "genre": [
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.1,
+      "language": [
+        "English"
+      ],
+      "length": 117
+    },
+    {
+      "id": 91,
+      "title": "Go Goa Gone",
+      "industry": "Bollywood",
+      "directors": [
+        "Krishna D.K.",
+        "Raj Nidimoru"
+      ],
+      "actors": [
+        "Saif Ali Khan",
+        "Kunal Khemu",
+        "Vir Das",
+        "Anand Tiwari"
+      ],
+      "producers": [
+        "Saif Ali Khan",
+        "Dinesh Vijan",
+        "Sunil Lulla"
+      ],
+      "releaseYear": 2013,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 6.6,
+      "language": [
+        "Hindi"
+      ],
+      "length": 111
+    },
+    {
+      "id": 92,
+      "title": "Children of Men",
+      "industry": "Hollywood",
+      "directors": [
+        "Alfonso Cuarón"
+      ],
+      "actors": [
+        "Clive Owen",
+        "Julianne Moore",
+        "Michael Caine"
+      ],
+      "producers": [
+        "Marc Abraham",
+        "Eric Newman",
+        "Hilary Shor",
+        "Iain Smith"
+      ],
+      "releaseYear": 2006,
+      "genre": [
+        "Action",
+        "Drama",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 7.9,
+      "language": [
+        "English"
+      ],
+      "length": 109
+    },
+    {
+      "id": 93,
+      "title": "Anand",
+      "industry": "Bollywood",
+      "directors": [
+        "Hrishikesh Mukherjee"
+      ],
+      "actors": [
+        "Rajesh Khanna",
+        "Amitabh Bachchan",
+        "Sumita Sanyal"
+      ],
+      "producers": [
+        "Hrishikesh Mukherjee",
+        "N.C. Sippy"
+      ],
+      "releaseYear": 1971,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 122
+    },
+    {
+      "id": 94,
+      "title": "Drive",
+      "industry": "Hollywood",
+      "directors": [
+        "Nicolas Winding Refn"
+      ],
+      "actors": [
+        "Ryan Gosling",
+        "Carey Mulligan",
+        "Bryan Cranston"
+      ],
+      "producers": [
+        "Marc Platt",
+        "Adam Siegel",
+        "Gigi Pritzker",
+        "Michel Litvak"
+      ],
+      "releaseYear": 2011,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "language": [
+        "English"
+      ],
+      "length": 100
+    },
+    {
+      "id": 95,
+      "title": "Ship of Theseus",
+      "industry": "Bollywood",
+      "directors": [
+        "Anand Gandhi"
+      ],
+      "actors": [
+        "Aida El-Kashef",
+        "Neeraj Kabi",
+        "Sohum Shah"
+      ],
+      "producers": [
+        "Mukesh Shah",
+        "Amita Shah"
+      ],
+      "releaseYear": 2012,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.0,
+      "language": [
+        "Hindi",
+        "English"
+      ],
+      "length": 143
+    },
+    {
+      "id": 96,
+      "title": "Snatch",
+      "industry": "Hollywood",
+      "directors": [
+        "Guy Ritchie"
+      ],
+      "actors": [
+        "Jason Statham",
+        "Brad Pitt",
+        "Stephen Graham"
+      ],
+      "producers": [
+        "Matthew Vaughn"
+      ],
+      "releaseYear": 2000,
+      "genre": [
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.2,
+      "language": [
+        "English"
+      ],
+      "length": 104
+    },
+    {
+      "id": 97,
+      "title": "Gangs of Wasseypur - Part 2",
+      "industry": "Bollywood",
+      "directors": [
+        "Anurag Kashyap"
+      ],
+      "actors": [
+        "Nawazuddin Siddiqui",
+        "Huma Qureshi",
+        "Richa Chadha"
+      ],
+      "producers": [
+        "Anurag Kashyap",
+        "Sunil Bohra"
+      ],
+      "releaseYear": 2012,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 160
+    },
+    {
+      "id": 98,
+      "title": "Requiem for a Dream",
+      "industry": "Hollywood",
+      "directors": [
+        "Darren Aronofsky"
+      ],
+      "actors": [
+        "Ellen Burstyn",
+        "Jared Leto",
+        "Jennifer Connelly"
+      ],
+      "producers": [
+        "Eric Watson",
+        "Palmer West"
+      ],
+      "releaseYear": 2000,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.3,
+      "language": [
+        "English"
+      ],
+      "length": 102
+    },
+    {
+      "id": 99,
+      "title": "Piku",
+      "industry": "Bollywood",
+      "directors": [
+        "Shoojit Sircar"
+      ],
+      "actors": [
+        "Amitabh Bachchan",
+        "Deepika Padukone",
+        "Irrfan Khan"
+      ],
+      "producers": [
+        "N.P. Singh",
+        "Ronnie Lahiri",
+        "Sneha Rajani"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "language": [
+        "Hindi"
+      ],
+      "length": 122
+    },
+    {
+      "id": 100,
+      "title": "Prisoners",
+      "industry": "Hollywood",
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Hugh Jackman",
+        "Jake Gyllenhaal",
+        "Viola Davis"
+      ],
+      "producers": [
+        "Broderick Johnson",
+        "Kira Davis",
+        "Andrew A. Kosove",
+        "Adam Kolbrenner"
+      ],
+      "releaseYear": 2013,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.1,
+      "language": [
+        "English"
+      ],
+      "length": 153
+    },
+    {
+      "id": 101,
+      "title": "Haider",
+      "industry": "Bollywood",
+      "directors": [
+        "Vishal Bhardwaj"
+      ],
+      "actors": [
+        "Shahid Kapoor",
+        "Tabu",
+        "Kay Kay Menon",
+        "Shraddha Kapoor"
+      ],
+      "producers": [
+        "Vishal Bhardwaj",
+        "Siddharth Roy Kapur"
+      ],
+      "releaseYear": 2014,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.0,
+      "language": [
+        "Hindi"
+      ],
+      "length": 160
+    },
+    {
+      "id": 102,
+      "title": "No Country for Old Men",
+      "industry": "Hollywood",
+      "directors": [
+        "Ethan Coen",
+        "Joel Coen"
+      ],
+      "actors": [
+        "Tommy Lee Jones",
+        "Javier Bardem",
+        "Josh Brolin"
+      ],
+      "producers": [
+        "Scott Rudin",
+        "Ethan Coen",
+        "Joel Coen"
+      ],
+      "releaseYear": 2007,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "language": [
+        "English"
+      ],
+      "length": 122
+    },
+    {
+      "id": 103,
+      "title": "Super Deluxe",
+      "industry": "South Indian",
+      "directors": [
+        "Thiagarajan Kumararaja"
+      ],
+      "actors": [
+        "Vijay Sethupathi",
+        "Fahadh Faasil",
+        "Samantha Ruth Prabhu"
+      ],
+      "producers": [
+        "Thiagarajan Kumararaja"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam"
+      ],
+      "length": 176
+    },
+    {
+      "id": 104,
+      "title": "The Grand Budapest Hotel",
+      "industry": "Hollywood",
+      "directors": [
+        "Wes Anderson"
+      ],
+      "actors": [
+        "Ralph Fiennes",
+        "F. Murray Abraham",
+        "Mathieu Amalric"
+      ],
+      "producers": [
+        "Wes Anderson",
+        "Scott Rudin",
+        "Steven Rales",
+        "Jeremy Dawson"
+      ],
+      "releaseYear": 2014,
+      "genre": [
+        "Adventure",
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 8.1,
+      "language": [
+        "English"
+      ],
+      "length": 99
+    },
+    {
+      "id": 105,
+      "title": "Kumbalangi Nights",
+      "industry": "South Indian",
+      "directors": [
+        "Madhu C. Narayanan"
+      ],
+      "actors": [
+        "Shane Nigam",
+        "Fahadh Faasil",
+        "Soubin Shahir"
+      ],
+      "producers": [
+        "Fahadh Faasil",
+        "Nazriya Nazim",
+        "Dileesh Pothan",
+        "Syam Pushkaran"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "language": [
+        "Malayalam"
+      ],
+      "length": 135
+    },
+    {
+      "id": 106,
+      "title": "Her",
+      "industry": "Hollywood",
+      "directors": [
+        "Spike Jonze"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Scarlett Johansson",
+        "Amy Adams"
+      ],
+      "producers": [
+        "Megan Ellison",
+        "Spike Jonze",
+        "Vincent Landay"
+      ],
+      "releaseYear": 2013,
+      "genre": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "rating": 8.0,
+      "language": [
+        "English"
+      ],
+      "length": 126
+    },
+    {
+      "id": 107,
+      "title": "Newton",
+      "industry": "Bollywood",
+      "directors": [
+        "Amit V. Masurkar"
+      ],
+      "actors": [
+        "Rajkummar Rao",
+        "Pankaj Tripathi",
+        "Anjali Patil"
+      ],
+      "producers": [
+        "Manish Mundra"
+      ],
+      "releaseYear": 2017,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.7,
+      "language": [
+        "Hindi"
+      ],
+      "length": 106
+    },
+    {
+      "id": 108,
+      "title": "Good Will Hunting",
+      "industry": "Hollywood",
+      "directors": [
+        "Gus Van Sant"
+      ],
+      "actors": [
+        "Robin Williams",
+        "Matt Damon",
+        "Ben Affleck"
+      ],
+      "producers": [
+        "Lawrence Bender"
+      ],
+      "releaseYear": 1997,
+      "genre": [
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.3,
+      "language": [
+        "English"
+      ],
+      "length": 126
+    },
+    {
+      "id": 109,
+      "title": "Aankhen",
+      "industry": "Bollywood",
+      "directors": [
+        "Vipul Amrutlal Shah"
+      ],
+      "actors": [
+        "Amitabh Bachchan",
+        "Akshay Kumar",
+        "Sushmita Sen",
+        "Arjun Rampal"
+      ],
+      "producers": [
+        "Gaurang Doshi"
+      ],
+      "releaseYear": 2002,
+      "genre": [
+        "Crime",
+        "Thriller",
+        "Comedy"
+      ],
+      "rating": 7.4,
+      "language": [
+        "Hindi"
+      ],
+      "length": 165
+    },
+    {
+      "id": 110,
+      "title": "The Truman Show",
+      "industry": "Hollywood",
+      "directors": [
+        "Peter Weir"
+      ],
+      "actors": [
+        "Jim Carrey",
+        "Ed Harris",
+        "Laura Linney"
+      ],
+      "producers": [
+        "Scott Rudin",
+        "Andrew Niccol",
+        "Edward S. Feldman",
+        "Adam Schröder"
+      ],
+      "releaseYear": 1998,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "language": [
+        "English"
+      ],
+      "length": 103
+    },
+    {
+      "id": 111,
+      "title": "Baahubali: The Beginning",
+      "industry": "South Indian",
+      "directors": [
+        "S.S. Rajamouli"
+      ],
+      "actors": [
+        "Prabhas",
+        "Rana Daggubati",
+        "Anushka Shetty",
+        "Tamannaah Bhatia"
+      ],
+      "producers": [
+        "Shobu Yarlagadda",
+        "Prasad Devineni"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.0,
+      "language": [
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam"
+      ],
+      "length": 159
+    },
+    {
+      "id": 112,
+      "title": "RRR",
+      "industry": "South Indian",
+      "directors": [
+        "S.S. Rajamouli"
+      ],
+      "actors": [
+        "N.T. Rama Rao Jr.",
+        "Ram Charan",
+        "Alia Bhatt",
+        "Ajay Devgn"
+      ],
+      "producers": [
+        "D.V.V. Danayya"
+      ],
+      "releaseYear": 2022,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 187
+    },
+    {
+      "id": 113,
+      "title": "K.G.F: Chapter 2",
+      "industry": "South Indian",
+      "directors": [
+        "Prashanth Neel"
+      ],
+      "actors": [
+        "Yash",
+        "Sanjay Dutt",
+        "Raveena Tandon",
+        "Srinidhi Shetty"
+      ],
+      "producers": [
+        "Vijay Kiragandur"
+      ],
+      "releaseYear": 2022,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Kannada",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "length": 168
+    },
+    {
+      "id": 114,
+      "title": "Kantara",
+      "industry": "South Indian",
+      "directors": [
+        "Rishab Shetty"
+      ],
+      "actors": [
+        "Rishab Shetty",
+        "Kishore",
+        "Achyuth Kumar",
+        "Sapthami Gowda"
+      ],
+      "producers": [
+        "Vijay Kiragandur"
+      ],
+      "releaseYear": 2022,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Kannada",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "length": 148
+    },
+    {
+      "id": 115,
+      "title": "Vikram",
+      "industry": "South Indian",
+      "directors": [
+        "Lokesh Kanagaraj"
+      ],
+      "actors": [
+        "Kamal Haasan",
+        "Vijay Sethupathi",
+        "Fahadh Faasil"
+      ],
+      "producers": [
+        "Kamal Haasan",
+        "R. Mahendran"
+      ],
+      "releaseYear": 2022,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Tamil",
+        "Hindi",
+        "Telugu",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 175
+    },
+    {
+      "id": 116,
+      "title": "Pushpa: The Rise",
+      "industry": "South Indian",
+      "directors": [
+        "Sukumar"
+      ],
+      "actors": [
+        "Allu Arjun",
+        "Fahadh Faasil",
+        "Rashmika Mandanna"
+      ],
+      "producers": [
+        "Naveen Yerneni",
+        "Y. Ravi Shankar"
+      ],
+      "releaseYear": 2021,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.6,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 175
+    },
+    {
+      "id": 117,
+      "title": "Jai Bhim",
+      "industry": "South Indian",
+      "directors": [
+        "T.J. Gnanavel"
+      ],
+      "actors": [
+        "Suriya",
+        "Lijomol Jose",
+        "Manikandan"
+      ],
+      "producers": [
+        "Jyothika",
+        "Suriya"
+      ],
+      "releaseYear": 2021,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.8,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 164
+    },
+    {
+      "id": 118,
+      "title": "Asuran",
+      "industry": "South Indian",
+      "directors": [
+        "Vetrimaaran"
+      ],
+      "actors": [
+        "Dhanush",
+        "Manju Warrier",
+        "Prakash Raj"
+      ],
+      "producers": [
+        "Kalaipuli S. Thanu"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.4,
+      "language": [
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 141
+    },
+    {
+      "id": 119,
+      "title": "Premam",
+      "industry": "South Indian",
+      "directors": [
+        "Alphonse Puthren"
+      ],
+      "actors": [
+        "Nivin Pauly",
+        "Sai Pallavi",
+        "Madonna Sebastian"
+      ],
+      "producers": [
+        "Anwar Rasheed"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Malayalam"
+      ],
+      "length": 156
+    },
+    {
+      "id": 120,
+      "title": "Minnal Murali",
+      "industry": "South Indian",
+      "directors": [
+        "Basil Joseph"
+      ],
+      "actors": [
+        "Tovino Thomas",
+        "Guru Somasundaram",
+        "Aju Varghese"
+      ],
+      "producers": [
+        "Sophia Paul"
+      ],
+      "releaseYear": 2021,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Fantasy"
+      ],
+      "rating": 7.8,
+      "language": [
+        "Malayalam",
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "Kannada"
+      ],
+      "length": 158
+    },
+    {
+      "id": 121,
+      "title": "Soorarai Pottru",
+      "industry": "South Indian",
+      "directors": [
+        "Sudha Kongara"
+      ],
+      "actors": [
+        "Suriya",
+        "Paresh Rawal",
+        "Aparna Balamurali"
+      ],
+      "producers": [
+        "Suriya",
+        "Guneet Monga"
+      ],
+      "releaseYear": 2020,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.7,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 153
+    },
+    {
+      "id": 122,
+      "title": "Arjun Reddy",
+      "industry": "South Indian",
+      "directors": [
+        "Sandeep Reddy Vanga"
+      ],
+      "actors": [
+        "Vijay Deverakonda",
+        "Shalini Pandey",
+        "Jia Sharma"
+      ],
+      "producers": [
+        "Pranay Reddy Vanga"
+      ],
+      "releaseYear": 2017,
+      "genre": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "rating": 7.9,
+      "language": [
+        "Telugu"
+      ],
+      "length": 182
+    },
+    {
+      "id": 123,
+      "title": "Kaithi",
+      "industry": "South Indian",
+      "directors": [
+        "Lokesh Kanagaraj"
+      ],
+      "actors": [
+        "Karthi",
+        "Narain",
+        "Dheena"
+      ],
+      "producers": [
+        "S.R. Prakashbabu",
+        "S.R. Prabhu",
+        "Tiruppur Vivek"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 8.4,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 145
+    },
+    {
+      "id": 124,
+      "title": "Ala Vaikunthapurramuloo",
+      "industry": "South Indian",
+      "directors": [
+        "Trivikram Srinivas"
+      ],
+      "actors": [
+        "Allu Arjun",
+        "Pooja Hegde",
+        "Tabu",
+        "Jayaram"
+      ],
+      "producers": [
+        "Allu Aravind",
+        "S. Radha Krishna"
+      ],
+      "releaseYear": 2020,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "language": [
+        "Telugu",
+        "Malayalam",
+        "Hindi"
+      ],
+      "length": 165
+    },
+    {
+      "id": 125,
+      "title": "Lucifer",
+      "industry": "South Indian",
+      "directors": [
+        "Prithviraj Sukumaran"
+      ],
+      "actors": [
+        "Mohanlal",
+        "Vivek Oberoi",
+        "Manju Warrier"
+      ],
+      "producers": [
+        "Antony Perumbavoor"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.5,
+      "language": [
+        "Malayalam",
+        "Hindi",
+        "Telugu",
+        "Tamil"
+      ],
+      "length": 175
+    },
+    {
+      "id": 126,
+      "title": "Pokiri",
+      "industry": "South Indian",
+      "directors": [
+        "Puri Jagannadh"
+      ],
+      "actors": [
+        "Mahesh Babu",
+        "Ileana D'Cruz",
+        "Prakash Raj"
+      ],
+      "producers": [
+        "Puri Jagannadh",
+        "Manjula Ghattamaneni"
+      ],
+      "releaseYear": 2006,
+      "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 8.0,
+      "language": [
+        "Telugu",
+        "Tamil",
+        "Hindi"
+      ],
+      "length": 162
+    },
+    {
+      "id": 127,
+      "title": "Thuppakki",
+      "industry": "South Indian",
+      "directors": [
+        "A.R. Murugadoss"
+      ],
+      "actors": [
+        "Vijay",
+        "Kajal Aggarwal",
+        "Sathyan"
+      ],
+      "producers": [
+        "Kalaippuli S. Thanu"
+      ],
+      "releaseYear": 2012,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 165
+    },
+    {
+      "id": 128,
+      "title": "Master",
+      "industry": "South Indian",
+      "directors": [
+        "Lokesh Kanagaraj"
+      ],
+      "actors": [
+        "Vijay",
+        "Vijay Sethupathi",
+        "Malavika Mohanan"
+      ],
+      "producers": [
+        "Xavier Britto"
+      ],
+      "releaseYear": 2021,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 7.3,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 179
+    },
+    {
+      "id": 129,
+      "title": "1: Nenokkadine",
+      "industry": "South Indian",
+      "directors": [
+        "Sukumar"
+      ],
+      "actors": [
+        "Mahesh Babu",
+        "Kriti Sanon",
+        "Nassar"
+      ],
+      "producers": [
+        "Ram Achanta",
+        "Gopichand Achanta",
+        "Anil Sunkara"
+      ],
+      "releaseYear": 2014,
+      "genre": [
+        "Action",
+        "Mystery",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 170
+    },
+    {
+      "id": 130,
+      "title": "Mankatha",
+      "industry": "South Indian",
+      "directors": [
+        "Venkat Prabhu"
+      ],
+      "actors": [
+        "Ajith Kumar",
+        "Arjun Sarja",
+        "Trisha Krishnan"
+      ],
+      "producers": [
+        "Dhanaanjayan",
+        "Dhayanidhi Alagiri"
+      ],
+      "releaseYear": 2011,
+      "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 7.7,
+      "language": [
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 160
+    },
+    {
+      "id": 131,
+      "title": "Kaththi",
+      "industry": "South Indian",
+      "directors": [
+        "A.R. Murugadoss"
+      ],
+      "actors": [
+        "Vijay",
+        "Samantha Ruth Prabhu",
+        "Neil Nitin Mukesh"
+      ],
+      "producers": [
+        "K. Karunamoorthy",
+        "A. Subashkaran"
+      ],
+      "releaseYear": 2014,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 166
+    },
+    {
+      "id": 132,
+      "title": "Rangasthalam",
+      "industry": "South Indian",
+      "directors": [
+        "Sukumar"
+      ],
+      "actors": [
+        "Ram Charan",
+        "Samantha Ruth Prabhu",
+        "Aadhi Pinisetty"
+      ],
+      "producers": [
+        "Naveen Yerneni",
+        "Y. Ravi Shankar"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 179
+    },
+    {
+      "id": 133,
+      "title": "Janatha Garage",
+      "industry": "South Indian",
+      "directors": [
+        "Koratala Siva"
+      ],
+      "actors": [
+        "N.T. Rama Rao Jr.",
+        "Mohanlal",
+        "Samantha Ruth Prabhu"
+      ],
+      "producers": [
+        "Naveen Yerneni",
+        "Y. Ravi Shankar"
+      ],
+      "releaseYear": 2016,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.2,
+      "language": [
+        "Telugu",
+        "Malayalam"
+      ],
+      "length": 162
+    },
+    {
+      "id": 134,
+      "title": "Dookudu",
+      "industry": "South Indian",
+      "directors": [
+        "Srinu Vaitla"
+      ],
+      "actors": [
+        "Mahesh Babu",
+        "Samantha Ruth Prabhu",
+        "Prakash Raj"
+      ],
+      "producers": [
+        "Ram Achanta",
+        "Gopichand Achanta",
+        "Anil Sunkara"
+      ],
+      "releaseYear": 2011,
+      "genre": [
+        "Action",
+        "Comedy"
+      ],
+      "rating": 7.4,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil"
+      ],
+      "length": 175
+    },
+    {
+      "id": 135,
+      "title": "Magadheera",
+      "industry": "South Indian",
+      "directors": [
+        "S.S. Rajamouli"
+      ],
+      "actors": [
+        "Ram Charan",
+        "Kajal Aggarwal",
+        "Dev Gill"
+      ],
+      "producers": [
+        "Allu Aravind",
+        "B.V.S.N. Prasad"
+      ],
+      "releaseYear": 2009,
+      "genre": [
+        "Action",
+        "Drama",
+        "Fantasy"
+      ],
+      "rating": 7.7,
+      "language": [
+        "Telugu",
+        "Tamil",
+        "Malayalam",
+        "Hindi"
+      ],
+      "length": 166
+    },
+    {
+      "id": 136,
+      "title": "The Pursuit of Happyness",
+      "industry": "Hollywood",
+      "directors": [
+        "Gabriele Muccino"
+      ],
+      "actors": [
+        "Will Smith",
+        "Jaden Smith",
+        "Thandiwe Newton"
+      ],
+      "producers": [
+        "Will Smith",
+        "James Lassiter",
+        "Todd Black"
+      ],
+      "releaseYear": 2006,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.0,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 117
+    },
+    {
+      "id": 137,
+      "title": "12th Fail",
+      "industry": "Bollywood",
+      "directors": [
+        "Vidhu Vinod Chopra"
+      ],
+      "actors": [
+        "Vikrant Massey",
+        "Medha Shankr",
+        "Anant V Joshi"
+      ],
+      "producers": [
+        "Vidhu Vinod Chopra"
+      ],
+      "releaseYear": 2023,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 9.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 147
+    },
+    {
+      "id": 138,
+      "title": "Jersey",
+      "industry": "South Indian",
+      "directors": [
+        "Gowtam Tinnanuri"
+      ],
+      "actors": [
+        "Nani",
+        "Shraddha Srinath",
+        "Sathyaraj"
+      ],
+      "producers": [
+        "Suryadevara Naga Vamsi"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Drama",
+        "Sports"
+      ],
+      "rating": 8.5,
+      "language": [
+        "Telugu",
+        "Tamil",
+        "Hindi"
+      ],
+      "length": 157
+    },
+    {
+      "id": 139,
+      "title": "Manjhi: The Mountain Man",
+      "industry": "Bollywood",
+      "directors": [
+        "Ketan Mehta"
+      ],
+      "actors": [
+        "Nawazuddin Siddiqui",
+        "Radhika Apte",
+        "Tigmanshu Dhulia"
+      ],
+      "producers": [
+        "Nina Lath Gupta",
+        "Deepa Sahi"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.0,
+      "language": [
+        "Hindi"
+      ],
+      "length": 120
+    },
+    {
+      "id": 140,
+      "title": "Rocky",
+      "industry": "Hollywood",
+      "directors": [
+        "John G. Avildsen"
+      ],
+      "actors": [
+        "Sylvester Stallone",
+        "Talia Shire",
+        "Burt Young"
+      ],
+      "producers": [
+        "Irwin Winkler",
+        "Robert Chartoff"
+      ],
+      "releaseYear": 1976,
+      "genre": [
+        "Drama",
+        "Sports"
+      ],
+      "rating": 8.1,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 120
+    },
+    {
+      "id": 141,
+      "title": "Major",
+      "industry": "South Indian",
+      "directors": [
+        "Sashi Kiran Tikka"
+      ],
+      "actors": [
+        "Adivi Sesh",
+        "Prakash Raj",
+        "Sobhita Dhulipala"
+      ],
+      "producers": [
+        "Mahesh Babu",
+        "Anurag Reddy",
+        "Sharath Chandra"
+      ],
+      "releaseYear": 2022,
+      "genre": [
+        "Action",
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Malayalam"
+      ],
+      "length": 149
+    },
+    {
+      "id": 142,
+      "title": "Lakshya",
+      "industry": "Bollywood",
+      "directors": [
+        "Farhan Akhtar"
+      ],
+      "actors": [
+        "Hrithik Roshan",
+        "Preity Zinta",
+        "Amitabh Bachchan"
+      ],
+      "producers": [
+        "Ritesh Sidhwani"
+      ],
+      "releaseYear": 2004,
+      "genre": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "rating": 7.8,
+      "language": [
+        "Hindi"
+      ],
+      "length": 186
+    },
+    {
+      "id": 143,
+      "title": "Hidden Figures",
+      "industry": "Hollywood",
+      "directors": [
+        "Theodore Melfi"
+      ],
+      "actors": [
+        "Taraji P. Henson",
+        "Octavia Spencer",
+        "Janelle Monáe"
+      ],
+      "producers": [
+        "Donna Gigliotti",
+        "Peter Chernin",
+        "Jenno Topping",
+        "Pharrell Williams"
+      ],
+      "releaseYear": 2016,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "language": [
+        "English"
+      ],
+      "length": 127
+    },
+    {
+      "id": 144,
+      "title": "Mahanati",
+      "industry": "South Indian",
+      "directors": [
+        "Nag Ashwin"
+      ],
+      "actors": [
+        "Keerthy Suresh",
+        "Dulquer Salmaan",
+        "Samantha Ruth Prabhu"
+      ],
+      "producers": [
+        "C. Ashwini Dutt",
+        "Priyanka Dutt",
+        "Swapna Dutt"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Biography",
+        "Drama"
+      ],
+      "rating": 8.5,
+      "language": [
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "length": 177
+    },
+    {
+      "id": 145,
+      "title": "Iqbal",
+      "industry": "Bollywood",
+      "directors": [
+        "Nagesh Kukunoor"
+      ],
+      "actors": [
+        "Shreyas Talpade",
+        "Naseeruddin Shah",
+        "Shweta Basu Prasad"
+      ],
+      "producers": [
+        "Subhash Ghai"
+      ],
+      "releaseYear": 2005,
+      "genre": [
+        "Drama",
+        "Sports"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 132
+    },
+    {
+      "id": 146,
+      "title": "Maharshi",
+      "industry": "South Indian",
+      "directors": [
+        "Vamshi Paidipally"
+      ],
+      "actors": [
+        "Mahesh Babu",
+        "Pooja Hegde",
+        "Allari Naresh"
+      ],
+      "producers": [
+        "Dil Raju",
+        "C. Ashwini Dutt",
+        "Prasad V. Potluri"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil"
+      ],
+      "length": 176
+    },
+    {
+      "id": 147,
+      "title": "Srimanthudu",
+      "industry": "South Indian",
+      "directors": [
+        "Koratala Siva"
+      ],
+      "actors": [
+        "Mahesh Babu",
+        "Shruti Haasan",
+        "Jagapathi Babu"
+      ],
+      "producers": [
+        "Y. Naveen",
+        "Y. Ravi Shankar",
+        "C. V. Mohan"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.5,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil"
+      ],
+      "length": 163
+    },
+    {
+      "id": 148,
+      "title": "Bharat Ane Nenu",
+      "industry": "South Indian",
+      "directors": [
+        "Koratala Siva"
+      ],
+      "actors": [
+        "Mahesh Babu",
+        "Kiara Advani",
+        "Prakash Raj"
+      ],
+      "producers": [
+        "D.V.V. Danayya"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.7,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil"
+      ],
+      "length": 173
+    },
+    {
+      "id": 149,
+      "title": "Sivaji: The Boss",
+      "industry": "South Indian",
+      "directors": [
+        "S. Shankar"
+      ],
+      "actors": [
+        "Rajinikanth",
+        "Shriya Saran",
+        "Suman"
+      ],
+      "producers": [
+        "M. S. Guhan",
+        "M. Saravanan"
+      ],
+      "releaseYear": 2007,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.5,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 188
+    },
+    {
+      "id": 150,
+      "title": "Sarkar",
+      "industry": "South Indian",
+      "directors": [
+        "A.R. Murugadoss"
+      ],
+      "actors": [
+        "Vijay",
+        "Keerthy Suresh",
+        "Varalaxmi Sarathkumar"
+      ],
+      "producers": [
+        "Kalanithi Maran"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 6.7,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 163
+    },
+    {
+      "id": 151,
+      "title": "Mersal",
+      "industry": "South Indian",
+      "directors": [
+        "Atlee"
+      ],
+      "actors": [
+        "Vijay",
+        "S.J. Suryah",
+        "Samantha Ruth Prabhu"
+      ],
+      "producers": [
+        "N. Ramasamy",
+        "Hema Rukmani"
+      ],
+      "releaseYear": 2017,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 7.5,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 170
+    },
+    {
+      "id": 152,
+      "title": "Anniyan",
+      "industry": "South Indian",
+      "directors": [
+        "S. Shankar"
+      ],
+      "actors": [
+        "Vikram",
+        "Sadha",
+        "Prakash Raj"
+      ],
+      "producers": [
+        "V. Ravichandran"
+      ],
+      "releaseYear": 2005,
+      "genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 181
+    },
+    {
+      "id": 153,
+      "title": "Indian",
+      "industry": "South Indian",
+      "directors": [
+        "S. Shankar"
+      ],
+      "actors": [
+        "Kamal Haasan",
+        "Manisha Koirala",
+        "Urmila Matondkar"
+      ],
+      "producers": [
+        "A.M. Rathnam"
+      ],
+      "releaseYear": 1996,
+      "genre": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 185
+    },
+    {
+      "id": 154,
+      "title": "Nayak: The Real Hero",
+      "industry": "Bollywood",
+      "directors": [
+        "S. Shankar"
+      ],
+      "actors": [
+        "Anil Kapoor",
+        "Rani Mukerji",
+        "Amrish Puri"
+      ],
+      "producers": [
+        "A.M. Rathnam"
+      ],
+      "releaseYear": 2001,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "language": [
+        "Hindi"
+      ],
+      "length": 187
+    },
+    {
+      "id": 155,
+      "title": "Gabbar Is Back",
+      "industry": "Bollywood",
+      "directors": [
+        "Krish"
+      ],
+      "actors": [
+        "Akshay Kumar",
+        "Shruti Haasan",
+        "Sunil Grover"
+      ],
+      "producers": [
+        "Sanjay Leela Bhansali",
+        "Shabinaa Khan"
+      ],
+      "releaseYear": 2015,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 128
+    },
+    {
+      "id": 156,
+      "title": "Toilet: Ek Prem Katha",
+      "industry": "Bollywood",
+      "directors": [
+        "Shree Narayan Singh"
+      ],
+      "actors": [
+        "Akshay Kumar",
+        "Bhumi Pednekar",
+        "Divyendu Sharma"
+      ],
+      "producers": [
+        "Aruna Bhatia",
+        "Shital Bhatia"
+      ],
+      "releaseYear": 2017,
+      "genre": [
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 155
+    },
+    {
+      "id": 157,
+      "title": "Pad Man",
+      "industry": "Bollywood",
+      "directors": [
+        "R. Balki"
+      ],
+      "actors": [
+        "Akshay Kumar",
+        "Sonam Kapoor",
+        "Radhika Apte"
+      ],
+      "producers": [
+        "Twinkle Khanna"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "rating": 7.9,
+      "language": [
+        "Hindi"
+      ],
+      "length": 140
+    },
+    {
+      "id": 158,
+      "title": "Pink",
+      "industry": "Bollywood",
+      "directors": [
+        "Aniruddha Roy Chowdhury"
+      ],
+      "actors": [
+        "Amitabh Bachchan",
+        "Taapsee Pannu",
+        "Kirti Kulhari"
+      ],
+      "producers": [
+        "Shoojit Sircar",
+        "Ronnie Lahiri"
+      ],
+      "releaseYear": 2016,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 136
+    },
+    {
+      "id": 159,
+      "title": "Vakeel Saab",
+      "industry": "South Indian",
+      "directors": [
+        "Venu Sriram"
+      ],
+      "actors": [
+        "Pawan Kalyan",
+        "Nivetha Thomas",
+        "Anjali"
+      ],
+      "producers": [
+        "Dil Raju",
+        "Sirish"
+      ],
+      "releaseYear": 2021,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.1,
+      "language": [
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 153
+    },
+    {
+      "id": 160,
+      "title": "Leader",
+      "industry": "South Indian",
+      "directors": [
+        "Sekhar Kammula"
+      ],
+      "actors": [
+        "Rana Daggubati",
+        "Richa Gangopadhyay",
+        "Priya Anand"
+      ],
+      "producers": [
+        "M. Saravanan",
+        "M. S. Guhan"
+      ],
+      "releaseYear": 2010,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Telugu"
+      ],
+      "length": 162
+    },
+    {
+      "id": 161,
+      "title": "Khaidi No. 150",
+      "industry": "South Indian",
+      "directors": [
+        "V.V. Vinayak"
+      ],
+      "actors": [
+        "Chiranjeevi",
+        "Kajal Aggarwal",
+        "Tarun Arora"
+      ],
+      "producers": [
+        "Ram Charan"
+      ],
+      "releaseYear": 2017,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 5.9,
+      "language": [
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 147
+    },
+    {
+      "id": 162,
+      "title": "Aruvi",
+      "industry": "South Indian",
+      "directors": [
+        "Arun Prabu Purushothaman"
+      ],
+      "actors": [
+        "Aditi Balan",
+        "Anjali Varadhan",
+        "Lakshmi Gopalaswamy"
+      ],
+      "producers": [
+        "S.R. Prabhu",
+        "S.R. Prakashbabu"
+      ],
+      "releaseYear": 2017,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.5,
+      "language": [
+        "Tamil"
+      ],
+      "length": 130
+    },
+    {
+      "id": 163,
+      "title": "Pariyerum Perumal",
+      "industry": "South Indian",
+      "directors": [
+        "Mari Selvaraj"
+      ],
+      "actors": [
+        "Kathir",
+        "Anandhi",
+        "Yogi Babu"
+      ],
+      "producers": [
+        "Pa. Ranjith"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Drama"
+      ],
+      "rating": 8.7,
+      "language": [
+        "Tamil"
+      ],
+      "length": 154
+    },
+    {
+      "id": 164,
+      "title": "Kaala",
+      "industry": "South Indian",
+      "directors": [
+        "Pa. Ranjith"
+      ],
+      "actors": [
+        "Rajinikanth",
+        "Nana Patekar",
+        "Eswari Rao"
+      ],
+      "producers": [
+        "Dhanush"
+      ],
+      "releaseYear": 2018,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 6.6,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 162
+    },
+    {
+      "id": 165,
+      "title": "Bigil",
+      "industry": "South Indian",
+      "directors": [
+        "Atlee"
+      ],
+      "actors": [
+        "Vijay",
+        "Nayanthara",
+        "Jackie Shroff"
+      ],
+      "producers": [
+        "Kalpathi S. Aghoram",
+        "Kalpathi S. Ganesh",
+        "Kalpathi S. Suresh"
+      ],
+      "releaseYear": 2019,
+      "genre": [
+        "Action",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 6.7,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 179
+    },
+    {
+      "id": 166,
+      "title": "Dune: Part Two",
+      "industry": "Hollywood",
+      "directors": [
+        "Denis Villeneuve"
+      ],
+      "actors": [
+        "Timothée Chalamet",
+        "Zendaya",
+        "Rebecca Ferguson"
+      ],
+      "producers": [
+        "Mary Parent",
+        "Cale Boyter",
+        "Denis Villeneuve"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Sci-Fi",
+        "Adventure",
+        "Action"
+      ],
+      "rating": 8.8,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 166
+    },
+    {
+      "id": 167,
+      "title": "Deadpool & Wolverine",
+      "industry": "Hollywood",
+      "directors": [
+        "Shawn Levy"
+      ],
+      "actors": [
+        "Ryan Reynolds",
+        "Hugh Jackman",
+        "Emma Corrin"
+      ],
+      "producers": [
+        "Kevin Feige",
+        "Ryan Reynolds",
+        "Shawn Levy"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "rating": 8.1,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 128
+    },
+    {
+      "id": 168,
+      "title": "Kalki 2898 AD",
+      "industry": "South Indian",
+      "directors": [
+        "Nag Ashwin"
+      ],
+      "actors": [
+        "Prabhas",
+        "Amitabh Bachchan",
+        "Kamal Haasan",
+        "Deepika Padukone"
+      ],
+      "producers": [
+        "C. Aswani Dutt"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Sci-Fi",
+        "Action",
+        "Fantasy"
+      ],
+      "rating": 7.6,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 181
+    },
+    {
+      "id": 169,
+      "title": "Stree 2",
+      "industry": "Bollywood",
+      "directors": [
+        "Amar Kaushik"
+      ],
+      "actors": [
+        "Shraddha Kapoor",
+        "Rajkummar Rao",
+        "Pankaj Tripathi"
+      ],
+      "producers": [
+        "Dinesh Vijan",
+        "Jyoti Deshpande"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 8.0,
+      "language": [
+        "Hindi"
+      ],
+      "length": 149
+    },
+    {
+      "id": 170,
+      "title": "Pushpa 2: The Rule",
+      "industry": "South Indian",
+      "directors": [
+        "Sukumar"
+      ],
+      "actors": [
+        "Allu Arjun",
+        "Fahadh Faasil",
+        "Rashmika Mandanna"
+      ],
+      "producers": [
+        "Naveen Yerneni",
+        "Y. Ravi Shankar"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 185
+    },
+    {
+      "id": 171,
+      "title": "Inside Out 2",
+      "industry": "Hollywood",
+      "directors": [
+        "Kelsey Mann"
+      ],
+      "actors": [
+        "Amy Poehler",
+        "Maya Hawke",
+        "Kensington Tallman"
+      ],
+      "producers": [
+        "Mark Nielsen"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "rating": 7.9,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 96
+    },
+    {
+      "id": 172,
+      "title": "Fighter",
+      "industry": "Bollywood",
+      "directors": [
+        "Siddharth Anand"
+      ],
+      "actors": [
+        "Hrithik Roshan",
+        "Deepika Padukone",
+        "Anil Kapoor"
+      ],
+      "producers": [
+        "Siddharth Anand",
+        "Mamta Anand",
+        "Ajit Andhare"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Thriller",
+        "War"
+      ],
+      "rating": 7.5,
+      "language": [
+        "Hindi"
+      ],
+      "length": 166
+    },
+    {
+      "id": 173,
+      "title": "Singham Again",
+      "industry": "Bollywood",
+      "directors": [
+        "Rohit Shetty"
+      ],
+      "actors": [
+        "Ajay Devgn",
+        "Kareena Kapoor",
+        "Deepika Padukone",
+        "Ranveer Singh"
+      ],
+      "producers": [
+        "Rohit Shetty",
+        "Ajay Devgn"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.2,
+      "language": [
+        "Hindi"
+      ],
+      "length": 155
+    },
+    {
+      "id": 174,
+      "title": "Furiosa: A Mad Max Saga",
+      "industry": "Hollywood",
+      "directors": [
+        "George Miller"
+      ],
+      "actors": [
+        "Anya Taylor-Joy",
+        "Chris Hemsworth",
+        "Tom Burke"
+      ],
+      "producers": [
+        "George Miller",
+        "Doug Mitchell"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.7,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 148
+    },
+    {
+      "id": 175,
+      "title": "The Greatest of All Time",
+      "industry": "South Indian",
+      "directors": [
+        "Venkat Prabhu"
+      ],
+      "actors": [
+        "Vijay",
+        "Prashanth",
+        "Prabhu"
+      ],
+      "producers": [
+        "Kalpathi S. Aghoram"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 7.4,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 164
+    },
+    {
+      "id": 176,
+      "title": "Vettaiyan",
+      "industry": "South Indian",
+      "directors": [
+        "T. J. Gnanavel"
+      ],
+      "actors": [
+        "Rajinikanth",
+        "Amitabh Bachchan",
+        "Fahadh Faasil"
+      ],
+      "producers": [
+        "Subaskaran Allirajah"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "rating": 7.8,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 158
+    },
+    {
+      "id": 177,
+      "title": "Amaran",
+      "industry": "South Indian",
+      "directors": [
+        "Rajkumar Periasamy"
+      ],
+      "actors": [
+        "Sivakarthikeyan",
+        "Sai Pallavi"
+      ],
+      "producers": [
+        "Kamal Haasan",
+        "R. Mahendran"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Biography",
+        "Action",
+        "War"
+      ],
+      "rating": 8.3,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 150
+    },
+    {
+      "id": 178,
+      "title": "Devara: Part 1",
+      "industry": "South Indian",
+      "directors": [
+        "Koratala Siva"
+      ],
+      "actors": [
+        "N.T. Rama Rao Jr.",
+        "Janhvi Kapoor",
+        "Saif Ali Khan"
+      ],
+      "producers": [
+        "Sudhakar Mikkilineni",
+        "Kosaraju Harikrishna"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.3,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 168
+    },
+    {
+      "id": 179,
+      "title": "Hanu-Man",
+      "industry": "South Indian",
+      "directors": [
+        "Prasanth Varma"
+      ],
+      "actors": [
+        "Teja Sajja",
+        "Amritha Aiyer",
+        "Varalaxmi Sarathkumar"
+      ],
+      "producers": [
+        "K. Niranjan Reddy"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "rating": 8.0,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil"
+      ],
+      "length": 158
+    },
+    {
+      "id": 180,
+      "title": "Tillu Square",
+      "industry": "South Indian",
+      "directors": [
+        "Mallik Ram"
+      ],
+      "actors": [
+        "Siddhu Jonnalagadda",
+        "Anupama Parameswaran"
+      ],
+      "producers": [
+        "Suryadevara Naga Vamsi"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Comedy",
+        "Crime",
+        "Romance"
+      ],
+      "rating": 7.5,
+      "language": [
+        "Telugu"
+      ],
+      "length": 137
+    },
+    {
+      "id": 181,
+      "title": "Godzilla x Kong: The New Empire",
+      "industry": "Hollywood",
+      "directors": [
+        "Adam Wingard"
+      ],
+      "actors": [
+        "Rebecca Hall",
+        "Brian Tyree Henry",
+        "Dan Stevens"
+      ],
+      "producers": [
+        "Mary Parent",
+        "Alex Garcia"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 6.8,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 115
+    },
+    {
+      "id": 182,
+      "title": "Kingdom of the Planet of the Apes",
+      "industry": "Hollywood",
+      "directors": [
+        "Wes Ball"
+      ],
+      "actors": [
+        "Owen Teague",
+        "Freya Allan",
+        "Kevin Durand"
+      ],
+      "producers": [
+        "Wes Ball",
+        "Joe Hartwick Jr."
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.0,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 145
+    },
+    {
+      "id": 183,
+      "title": "Gladiator II",
+      "industry": "Hollywood",
+      "directors": [
+        "Ridley Scott"
+      ],
+      "actors": [
+        "Paul Mescal",
+        "Pedro Pascal",
+        "Denzel Washington"
+      ],
+      "producers": [
+        "Ridley Scott",
+        "Michael Pruss"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "rating": 7.5,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 150
+    },
+    {
+      "id": 184,
+      "title": "Joker: Folie à Deux",
+      "industry": "Hollywood",
+      "directors": [
+        "Todd Phillips"
+      ],
+      "actors": [
+        "Joaquin Phoenix",
+        "Lady Gaga",
+        "Zazie Beetz"
+      ],
+      "producers": [
+        "Todd Phillips",
+        "Emma Tillinger Koskoff"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller",
+        "Musical"
+      ],
+      "rating": 6.9,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 138
+    },
+    {
+      "id": 185,
+      "title": "Crew",
+      "industry": "Bollywood",
+      "directors": [
+        "Rajesh A Krishnan"
+      ],
+      "actors": [
+        "Tabu",
+        "Kareena Kapoor Khan",
+        "Kriti Sanon"
+      ],
+      "producers": [
+        "Ekta Kapoor",
+        "Rhea Kapoor"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Comedy",
+        "Crime"
+      ],
+      "rating": 7.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 118
+    },
+    {
+      "id": 186,
+      "title": "Shaitaan",
+      "industry": "Bollywood",
+      "directors": [
+        "Vikas Bahl"
+      ],
+      "actors": [
+        "Ajay Devgn",
+        "R. Madhavan",
+        "Jyothika"
+      ],
+      "producers": [
+        "Ajay Devgn",
+        "Jyoti Deshpande"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Horror",
+        "Thriller"
+      ],
+      "rating": 7.4,
+      "language": [
+        "Hindi"
+      ],
+      "length": 132
+    },
+    {
+      "id": 187,
+      "title": "Bhool Bhulaiyaa 3",
+      "industry": "Bollywood",
+      "directors": [
+        "Anees Bazmee"
+      ],
+      "actors": [
+        "Kartik Aaryan",
+        "Vidya Balan",
+        "Madhuri Dixit"
+      ],
+      "producers": [
+        "Bhushan Kumar",
+        "Krishan Kumar"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 7.0,
+      "language": [
+        "Hindi"
+      ],
+      "length": 150
+    },
+    {
+      "id": 188,
+      "title": "Yodha",
+      "industry": "Bollywood",
+      "directors": [
+        "Sagar Ambre",
+        "Pushkar Ojha"
+      ],
+      "actors": [
+        "Sidharth Malhotra",
+        "Raashii Khanna",
+        "Disha Patani"
+      ],
+      "producers": [
+        "Hiroo Yash Johar",
+        "Karan Johar"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 6.8,
+      "language": [
+        "Hindi"
+      ],
+      "length": 130
+    },
+    {
+      "id": 189,
+      "title": "Maidaan",
+      "industry": "Bollywood",
+      "directors": [
+        "Amit Ravindernath Sharma"
+      ],
+      "actors": [
+        "Ajay Devgn",
+        "Priyamani",
+        "Gajraj Rao"
+      ],
+      "producers": [
+        "Boney Kapoor",
+        "Zee Studios"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Biography",
+        "Drama",
+        "Sports"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 181
+    },
+    {
+      "id": 190,
+      "title": "Munjya",
+      "industry": "Bollywood",
+      "directors": [
+        "Aditya Sarpotdar"
+      ],
+      "actors": [
+        "Abhay Verma",
+        "Sharvari",
+        "Mona Singh"
+      ],
+      "producers": [
+        "Dinesh Vijan",
+        "Amar Kaushik"
+      ],
+      "releaseYear": 2024,
+      "genre": [
+        "Comedy",
+        "Horror"
+      ],
+      "rating": 7.3,
+      "language": [
+        "Hindi"
+      ],
+      "length": 123
+    },
+    {
+      "id": 191,
+      "title": "Avatar: Fire and Ash",
+      "industry": "Hollywood",
+      "directors": [
+        "James Cameron"
+      ],
+      "actors": [
+        "Sam Worthington",
+        "Zoe Saldana",
+        "Sigourney Weaver"
+      ],
+      "producers": [
+        "James Cameron",
+        "Jon Landau"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Fantasy"
+      ],
+      "rating": 8.5,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 190
+    },
+    {
+      "id": 192,
+      "title": "Superman",
+      "industry": "Hollywood",
+      "directors": [
+        "James Gunn"
+      ],
+      "actors": [
+        "David Corenswet",
+        "Rachel Brosnahan",
+        "Nicholas Hoult"
+      ],
+      "producers": [
+        "Peter Safran",
+        "Charles Roven"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.0,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 145
+    },
+    {
+      "id": 193,
+      "title": "Captain America: Brave New World",
+      "industry": "Hollywood",
+      "directors": [
+        "Julius Onah"
+      ],
+      "actors": [
+        "Anthony Mackie",
+        "Harrison Ford",
+        "Danny Ramirez"
+      ],
+      "producers": [
+        "Kevin Feige",
+        "Nate Moore"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.5,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 135
+    },
+    {
+      "id": 194,
+      "title": "The Fantastic Four: First Steps",
+      "industry": "Hollywood",
+      "directors": [
+        "Matt Shakman"
+      ],
+      "actors": [
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Joseph Quinn"
+      ],
+      "producers": [
+        "Kevin Feige"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.8,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 130
+    },
+    {
+      "id": 195,
+      "title": "Thunderbolts*",
+      "industry": "Hollywood",
+      "directors": [
+        "Jake Schreier"
+      ],
+      "actors": [
+        "Florence Pugh",
+        "Sebastian Stan",
+        "David Harbour"
+      ],
+      "producers": [
+        "Kevin Feige"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.4,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 125
+    },
+    {
+      "id": 196,
+      "title": "Jurassic World Rebirth",
+      "industry": "Hollywood",
+      "directors": [
+        "Gareth Edwards"
+      ],
+      "actors": [
+        "Scarlett Johansson",
+        "Jonathan Bailey",
+        "Mahershala Ali"
+      ],
+      "producers": [
+        "Frank Marshall",
+        "Patrick Crowley"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi",
+        "Thriller"
+      ],
+      "rating": 7.2,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 135
+    },
+    {
+      "id": 197,
+      "title": "Mission: Impossible 8",
+      "industry": "Hollywood",
+      "directors": [
+        "Christopher McQuarrie"
+      ],
+      "actors": [
+        "Tom Cruise",
+        "Hayley Atwell",
+        "Ving Rhames"
+      ],
+      "producers": [
+        "Tom Cruise",
+        "Christopher McQuarrie"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "rating": 8.3,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 160
+    },
+    {
+      "id": 198,
+      "title": "War 2",
+      "industry": "Bollywood",
+      "directors": [
+        "Ayan Mukerji"
+      ],
+      "actors": [
+        "Hrithik Roshan",
+        "N.T. Rama Rao Jr.",
+        "Kiara Advani"
+      ],
+      "producers": [
+        "Aditya Chopra"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 8.0,
+      "language": [
+        "Hindi",
+        "Telugu",
+        "Tamil"
+      ],
+      "length": 155
+    },
+    {
+      "id": 199,
+      "title": "Sikandar",
+      "industry": "Bollywood",
+      "directors": [
+        "A.R. Murugadoss"
+      ],
+      "actors": [
+        "Salman Khan",
+        "Rashmika Mandanna"
+      ],
+      "producers": [
+        "Sajid Nadiadwala"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Drama"
+      ],
+      "rating": 7.5,
+      "language": [
+        "Hindi"
+      ],
+      "length": 145
+    },
+    {
+      "id": 200,
+      "title": "Toxic",
+      "industry": "South Indian",
+      "directors": [
+        "Geetu Mohandas"
+      ],
+      "actors": [
+        "Yash",
+        "Kiara Advani"
+      ],
+      "producers": [
+        "Venkat K Narayana",
+        "Yash"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "rating": 8.2,
+      "language": [
+        "Kannada",
+        "Hindi",
+        "Telugu",
+        "Tamil",
+        "Malayalam"
+      ],
+      "length": 160
+    },
+    {
+      "id": 201,
+      "title": "Good Bad Ugly",
+      "industry": "South Indian",
+      "directors": [
+        "Adhik Ravichandran"
+      ],
+      "actors": [
+        "Ajith Kumar",
+        "Trisha Krishnan"
+      ],
+      "producers": [
+        "Naveen Yerneni"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "rating": 7.4,
+      "language": [
+        "Tamil",
+        "Telugu",
+        "Hindi"
+      ],
+      "length": 150
+    },
+    {
+      "id": 202,
+      "title": "Hari Hara Veera Mallu",
+      "industry": "South Indian",
+      "directors": [
+        "Krish Jagarlamudi"
+      ],
+      "actors": [
+        "Pawan Kalyan",
+        "Nidhhi Agerwal",
+        "Bobby Deol"
+      ],
+      "producers": [
+        "A. Dayakar Rao"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Adventure",
+        "History"
+      ],
+      "rating": 7.6,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil",
+        "Malayalam"
+      ],
+      "length": 165
+    },
+    {
+      "id": 203,
+      "title": "Alpha",
+      "industry": "Bollywood",
+      "directors": [
+        "Shiv Rawail"
+      ],
+      "actors": [
+        "Alia Bhatt",
+        "Sharvari"
+      ],
+      "producers": [
+        "Aditya Chopra"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Action",
+        "Thriller"
+      ],
+      "rating": 7.3,
+      "language": [
+        "Hindi"
+      ],
+      "length": 135
+    },
+    {
+      "id": 204,
+      "title": "Raid 2",
+      "industry": "Bollywood",
+      "directors": [
+        "Raj Kumar Gupta"
+      ],
+      "actors": [
+        "Ajay Devgn",
+        "Vaani Kapoor",
+        "Riteish Deshmukh"
+      ],
+      "producers": [
+        "Bhushan Kumar",
+        "Kumar Mangat Pathak"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "rating": 7.7,
+      "language": [
+        "Hindi"
+      ],
+      "length": 140
+    },
+    {
+      "id": 205,
+      "title": "De De Pyaar De 2",
+      "industry": "Bollywood",
+      "directors": [
+        "Anshul Sharma"
+      ],
+      "actors": [
+        "Ajay Devgn",
+        "Rakul Preet Singh",
+        "R. Madhavan"
+      ],
+      "producers": [
+        "Luv Ranjan",
+        "Bhushan Kumar"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Comedy",
+        "Romance"
+      ],
+      "rating": 6.8,
+      "language": [
+        "Hindi"
+      ],
+      "length": 130
+    },
+    {
+      "id": 206,
+      "title": "Welcome to the Jungle",
+      "industry": "Bollywood",
+      "directors": [
+        "Ahmed Khan"
+      ],
+      "actors": [
+        "Akshay Kumar",
+        "Sanjay Dutt",
+        "Arshad Warsi"
+      ],
+      "producers": [
+        "Firoz Nadiadwala"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Comedy",
+        "Adventure"
+      ],
+      "rating": 6.5,
+      "language": [
+        "Hindi"
+      ],
+      "length": 145
+    },
+    {
+      "id": 207,
+      "title": "Avengers: Doomsday",
+      "industry": "Hollywood",
+      "directors": [
+        "Anthony Russo",
+        "Joe Russo"
+      ],
+      "actors": [
+        "Robert Downey Jr.",
+        "Pedro Pascal",
+        "Vanessa Kirby"
+      ],
+      "producers": [
+        "Kevin Feige"
+      ],
+      "releaseYear": 2026,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 8.7,
+      "language": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Telugu"
+      ],
+      "length": 160
+    },
+    {
+      "id": 208,
+      "title": "The Batman Part II",
+      "industry": "Hollywood",
+      "directors": [
+        "Matt Reeves"
+      ],
+      "actors": [
+        "Robert Pattinson",
+        "Zoë Kravitz",
+        "Jeffrey Wright"
+      ],
+      "producers": [
+        "Dylan Clark",
+        "Matt Reeves"
+      ],
+      "releaseYear": 2026,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "rating": 8.2,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 170
+    },
+    {
+      "id": 209,
+      "title": "Toy Story 5",
+      "industry": "Hollywood",
+      "directors": [
+        "Andrew Stanton"
+      ],
+      "actors": [
+        "Tom Hanks",
+        "Tim Allen"
+      ],
+      "producers": [
+        "Pixar Animation Studios"
+      ],
+      "releaseYear": 2026,
+      "genre": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "rating": 8.0,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 100
+    },
+    {
+      "id": 210,
+      "title": "Supergirl: Woman of Tomorrow",
+      "industry": "Hollywood",
+      "directors": [
+        "Craig Gillespie"
+      ],
+      "actors": [
+        "Milly Alcock"
+      ],
+      "producers": [
+        "James Gunn",
+        "Peter Safran"
+      ],
+      "releaseYear": 2026,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "rating": 7.5,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 135
+    },
+    {
+      "id": 211,
+      "title": "Love & War",
+      "industry": "Bollywood",
+      "directors": [
+        "Sanjay Leela Bhansali"
+      ],
+      "actors": [
+        "Ranbir Kapoor",
+        "Alia Bhatt",
+        "Vicky Kaushal"
+      ],
+      "producers": [
+        "Sanjay Leela Bhansali"
+      ],
+      "releaseYear": 2026,
+      "genre": [
+        "Drama",
+        "Romance",
+        "War"
+      ],
+      "rating": 8.1,
+      "language": [
+        "Hindi"
+      ],
+      "length": 165
+    },
+    {
+      "id": 212,
+      "title": "Ramayana: Part 1",
+      "industry": "Bollywood",
+      "directors": [
+        "Nitesh Tiwari"
+      ],
+      "actors": [
+        "Ranbir Kapoor",
+        "Sai Pallavi",
+        "Yash"
+      ],
+      "producers": [
+        "Namit Malhotra"
+      ],
+      "releaseYear": 2026,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Drama",
+        "History"
+      ],
+      "rating": 8.5,
+      "language": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "Malayalam",
+        "Kannada"
+      ],
+      "length": 180
+    },
+    {
+      "id": 213,
+      "title": "SSMB29",
+      "industry": "South Indian",
+      "directors": [
+        "S.S. Rajamouli"
+      ],
+      "actors": [
+        "Mahesh Babu"
+      ],
+      "producers": [
+        "K.L. Narayana"
+      ],
+      "releaseYear": 2026,
+      "genre": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "rating": 8.6,
+      "language": [
+        "Telugu",
+        "Hindi",
+        "Tamil",
+        "Malayalam",
+        "Kannada",
+        "English"
+      ],
+      "length": 175
+    },
+    {
+      "id": 214,
+      "title": "Animal Park",
+      "industry": "Bollywood",
+      "directors": [
+        "Sandeep Reddy Vanga"
+      ],
+      "actors": [
+        "Ranbir Kapoor",
+        "Rashmika Mandanna"
+      ],
+      "producers": [
+        "Bhushan Kumar",
+        "Pranay Reddy Vanga"
+      ],
+      "releaseYear": 2026,
+      "genre": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "rating": 7.8,
+      "language": [
+        "Hindi",
+        "Telugu",
+        "Tamil"
+      ],
+      "length": 190
+    },
+    {
+      "id": 215,
+      "title": "TRON: Ares",
+      "industry": "Hollywood",
+      "directors": [
+        "Joachim Rønning"
+      ],
+      "actors": [
+        "Jared Leto",
+        "Greta Lee",
+        "Evan Peters"
+      ],
+      "producers": [
+        "Justin Springer",
+        "Jared Leto"
+      ],
+      "releaseYear": 2025,
+      "genre": [
+        "Sci-Fi",
+        "Action",
+        "Adventure"
+      ],
+      "rating": 7.3,
+      "language": [
+        "English",
+        "Hindi"
+      ],
+      "length": 125
+    }
+  ]
+}
