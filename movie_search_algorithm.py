@@ -2,7 +2,7 @@ import json
 import shutil
 import textwrap
 import os
-import time
+import time 
 
 with open('movies.json', 'r') as file:
     MOVIE_DATABASE = json.load(file).get("movies", [])
@@ -42,8 +42,6 @@ def print_premium_movie_cards(movies_list):
         rating = float(movie.get("rating", 0))
         length = movie.get("length", "N/A")
         industry = movie.get("industry", "N/A")
-        
-        # 👈 YAHAN CHANGES HUE HAIN: Lists ko comma se jodkar string bana diya
         language = ", ".join(movie.get("language", [])) or "N/A"
         director = ", ".join(movie.get("directors", [])) or "Unknown"
         genres = ", ".join(movie.get("genre", [])) or "N/A"
@@ -72,7 +70,6 @@ def print_premium_movie_cards(movies_list):
             + f"{CYAN}║{RESET}"
         )
 
-        # Agar language ya director ka text lamba ho, toh UI break na ho isliye max() ka use kiya hai
         print(
             f"{CYAN}║{RESET} 🌍 Language  {WHITE}{language[:WIDTH-20]}{RESET}"
             + " "*max(0, (WIDTH-16-len(language[:WIDTH-20])))
@@ -160,15 +157,14 @@ def movie_Suggest_Reply(genre=None, language=None, length=None, min_rating=None,
     s_dir = director.lower() if director else None
     s_industry = industry.lower() if industry else None
     
-    # Agar actors list mein hain, toh usko pehle hi lowercase 'Set' bana lo
+    # Actors list mein hain, toh usko pehle hi lowercase 'Set' bana lo
     s_actors = set(a.lower() for a in actors) if actors else None
 
-    print("🔍 Movies search ho rahi hain...\n")
+    print("🔍 Movies searching...\n")
     matched_movies = []
 
     for movie in MOVIE_DATABASE:
         
-        # 👈 YAHAN CHANGE HUA HAI: Ab language ek list hai, toh hum check kar rahe hain ki user ki manga hua language list ke andar hai ya nahi
         if s_lang and s_lang not in [l.lower() for l in movie.get("language", [])]:
             continue
             
@@ -188,7 +184,6 @@ def movie_Suggest_Reply(genre=None, language=None, length=None, min_rating=None,
             continue
             
         if s_actors:
-            # Movie ke actors ko set banakar intersection check karte hain
             m_actors = set(a.lower() for a in movie.get("actors", []))
             if not s_actors.intersection(m_actors): 
                 continue
@@ -202,12 +197,10 @@ def movie_Suggest_Reply(genre=None, language=None, length=None, min_rating=None,
         if release_year and movie.get("releaseYear") != release_year:
             continue
             
-        # Agar movie ne upar ki saari conditions pass kar li, toh usko list mein add kar do
         matched_movies.append(movie)
 
 
     return print_premium_movie_cards(matched_movies)
-
 
 def start_movie_search_session():
     os.system("cls" if os.name == "nt" else "clear")

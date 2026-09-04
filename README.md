@@ -8,9 +8,9 @@
 
 **Muvio** is a conversational AI movie recommendation system developed in **Python** as part of the **LPU Engage – Advanced Python Project**.
 
-Instead of allowing an AI model to directly recommend movies, Muvio follows a **Hybrid AI Architecture**. Google Gemini is used only to understand user intent and extract structured preferences such as genre, mood, language, actors, director, producer,  duration or release year.
+Instead of allowing an AI model to directly recommend movies, Muvio follows a **Hybrid AI Architecture**. Google Gemini is used only to understand user intent and extract structured preferences such as genre, language, actors, director, producer,  duration or release year.
 
-These preferences are then passed to Muvio's own recommendation pipeline, where custom filtering, ranking, and response generation are performed before presenting the final result to the user.
+These preferences are then passed to Muvio's own recommendation pipeline, where custom filtering, and response generation are performed before presenting the final result to the user.
 
 This approach provides greater control, consistency, and flexibility compared to relying entirely on AI-generated responses.
 
@@ -34,7 +34,7 @@ Intent & Preference Extraction
           │
           ▼
 Custom Recommendation Pipeline
-(Filter • Ranking • Response Logic)
+(Filter • Response Logic)
           │
           ▼
 Formatted Recommendation

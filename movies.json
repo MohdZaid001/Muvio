@@ -3162,32 +3162,28 @@
     },
     {
       "id": 110,
-      "title": "The Truman Show",
-      "industry": "Hollywood",
+      "title": "Raahgīr: The Wayfarers",
+      "industry": "Bollywood",
       "directors": [
-        "Peter Weir"
+        "Gautam Ghose"
       ],
       "actors": [
-        "Jim Carrey",
-        "Ed Harris",
-        "Laura Linney"
+        "Adil Hussain",
+        "Tillotama Shome",
+        "Neeraj Kabi"
       ],
       "producers": [
-        "Scott Rudin",
-        "Andrew Niccol",
-        "Edward S. Feldman",
-        "Adam Schröder"
+        "Gautam Ghose"
       ],
-      "releaseYear": 1998,
+      "releaseYear": 2025,
       "genre": [
-        "Comedy",
         "Drama"
       ],
-      "rating": 8.2,
+      "rating": 7.1,
       "language": [
-        "English"
+        "Hindi"
       ],
-      "length": 103
+      "length": 119
     },
     {
       "id": 111,
